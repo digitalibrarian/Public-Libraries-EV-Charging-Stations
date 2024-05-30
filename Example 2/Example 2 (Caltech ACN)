@@ -1,1 +1,30 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Dataset",
+  "name": "Example 2 (Caltech ACN)",
+  "identifier": "00002",
+  "license": "CC0",
+  "temporalCoverage": "2021-05-01/2021-05-31",
+  "spatialCoverage": {
+    "@type": "Place",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Seattle",
+      "addressRegion": "WA",
+      "postalCode": "98105",
+      "streetAddress": "5009 Roosevelt Way NE"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": "47.6652129",
+      "longitude": "-122.3179374"
+    }
+  },
+  "sourceOrganization": "Seattle Public Library, University Branch",
+  "url": "https://www.spl.org/hours-and-locations/university-branch",
+  "size": "742,400",
+  "dateCreated": "2024-05-29",
+  "dateModified": "2024-05-29",
+  "price": "payment required"
+}
 
