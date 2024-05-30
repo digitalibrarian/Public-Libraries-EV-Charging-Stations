@@ -1,0 +1,2764 @@
+{
+  "rows" : [
+    {
+      "session_ID" : "2_39_95_27_2021-05-01 00:11:49.687283",
+      "station_ID" : "39",
+      "port_ID" : "2-39-95-27",
+      "session_start" : "2021-05-01T00:12:07Z",
+      "session_end" : "2021-05-01T05:04:23Z",
+      "kWh_delivered" : "33.313"
+    },
+    {
+      "session_ID" : "2_39_81_4550_2021-05-01 01:51:11.342721",
+      "station_ID" : "39",
+      "port_ID" : "2-39-81-4550",
+      "session_start" : "2021-05-01T01:51:32Z",
+      "session_end" : "2021-05-01T02:49:45Z",
+      "kWh_delivered" : "20.612"
+    },
+    {
+      "session_ID" : "2_39_81_4550_2021-05-01 02:51:43.003811",
+      "station_ID" : "39",
+      "port_ID" : "2-39-81-4550",
+      "session_start" : "2021-05-01T02:52:04Z",
+      "session_end" : "2021-05-01T03:38:52Z",
+      "kWh_delivered" : "4.84"
+    },
+    {
+      "session_ID" : "2_39_81_4550_2021-05-01 15:29:44.728788",
+      "station_ID" : "39",
+      "port_ID" : "2-39-81-4550",
+      "session_start" : "2021-05-01T15:30:17Z",
+      "session_end" : "2021-05-01T16:16:49Z",
+      "kWh_delivered" : "15.688"
+    },
+    {
+      "session_ID" : "2_39_81_4550_2021-05-01 18:03:59.010528",
+      "station_ID" : "39",
+      "port_ID" : "2-39-81-4550",
+      "session_start" : "2021-05-01T18:04:23Z",
+      "session_end" : "2021-05-01T18:38:21Z",
+      "kWh_delivered" : "22.834"
+    },
+    {
+      "session_ID" : "2_39_79_379_2021-05-01 19:00:23.802121",
+      "station_ID" : "39",
+      "port_ID" : "2-39-79-379",
+      "session_start" : "2021-05-01T19:01:17Z",
+      "session_end" : "2021-05-01T19:16:04Z",
+      "kWh_delivered" : "0.905"
+    },
+    {
+      "session_ID" : "2_39_79_379_2021-05-01 19:55:07.718798",
+      "station_ID" : "39",
+      "port_ID" : "2-39-79-379",
+      "session_start" : "2021-05-01T19:55:08Z",
+      "session_end" : "2021-05-02T01:33:15Z",
+      "kWh_delivered" : "0.732"
+    },
+    {
+      "session_ID" : "2_39_90_26_2021-05-01 20:01:50.548708",
+      "station_ID" : "39",
+      "port_ID" : "2-39-90-26",
+      "session_start" : "2021-05-01T20:02:06Z",
+      "session_end" : "2021-05-01T21:40:51Z",
+      "kWh_delivered" : "1.188"
+    },
+    {
+      "session_ID" : "2_39_81_4550_2021-05-01 20:42:39.133163",
+      "station_ID" : "39",
+      "port_ID" : "2-39-81-4550",
+      "session_start" : "2021-05-01T20:42:47Z",
+      "session_end" : "2021-05-01T21:32:12Z",
+      "kWh_delivered" : "30.936"
+    },
+    {
+      "session_ID" : "2_39_125_21_2021-05-01 21:56:05.026096",
+      "station_ID" : "39",
+      "port_ID" : "2-39-125-21",
+      "session_start" : "2021-05-01T21:56:16Z",
+      "session_end" : "2021-05-01T22:40:48Z",
+      "kWh_delivered" : "2.476"
+    },
+    {
+      "session_ID" : "2_39_81_4550_2021-05-02 01:49:53.883614",
+      "station_ID" : "39",
+      "port_ID" : "2-39-81-4550",
+      "session_start" : "2021-05-02T01:50:10Z",
+      "session_end" : "2021-05-02T04:12:59Z",
+      "kWh_delivered" : "53.82"
+    },
+    {
+      "session_ID" : "2_39_81_4550_2021-05-02 15:38:34.361379",
+      "station_ID" : "39",
+      "port_ID" : "2-39-81-4550",
+      "session_start" : "2021-05-02T15:38:57Z",
+      "session_end" : "2021-05-02T16:09:37Z",
+      "kWh_delivered" : "22.758"
+    },
+    {
+      "session_ID" : "2_39_81_4550_2021-05-02 17:49:49.847207",
+      "station_ID" : "39",
+      "port_ID" : "2-39-81-4550",
+      "session_start" : "2021-05-02T17:50:06Z",
+      "session_end" : "2021-05-02T22:42:58Z",
+      "kWh_delivered" : "42.892"
+    },
+    {
+      "session_ID" : "2_39_131_30_2021-05-02 20:08:26.214456",
+      "station_ID" : "39",
+      "port_ID" : "2-39-131-30",
+      "session_start" : "2021-05-02T20:08:26Z",
+      "session_end" : "2021-05-02T21:22:56Z",
+      "kWh_delivered" : "0.933"
+    },
+    {
+      "session_ID" : "2_39_131_30_2021-05-02 23:16:25.231570",
+      "station_ID" : "39",
+      "port_ID" : "2-39-131-30",
+      "session_start" : "2021-05-02T23:16:40Z",
+      "session_end" : "2021-05-03T01:09:07Z",
+      "kWh_delivered" : "10.219"
+    },
+    {
+      "session_ID" : "2_39_81_4550_2021-05-03 01:08:37.302887",
+      "station_ID" : "39",
+      "port_ID" : "2-39-81-4550",
+      "session_start" : "2021-05-03T01:08:44Z",
+      "session_end" : "2021-05-03T02:02:16Z",
+      "kWh_delivered" : "13.84"
+    },
+    {
+      "session_ID" : "2_39_81_4550_2021-05-03 15:28:37.691869",
+      "station_ID" : "39",
+      "port_ID" : "2-39-81-4550",
+      "session_start" : "2021-05-03T15:28:51Z",
+      "session_end" : "2021-05-03T15:53:54Z",
+      "kWh_delivered" : "6.332"
+    },
+    {
+      "session_ID" : "2_39_127_19_2021-05-03 16:07:48.186593",
+      "station_ID" : "39",
+      "port_ID" : "2-39-127-19",
+      "session_start" : "2021-05-03T16:07:48Z",
+      "session_end" : "2021-05-03T20:05:11Z",
+      "kWh_delivered" : "0.916"
+    },
+    {
+      "session_ID" : "2_39_131_30_2021-05-03 16:57:57.433116",
+      "station_ID" : "39",
+      "port_ID" : "2-39-131-30",
+      "session_start" : "2021-05-03T16:57:57Z",
+      "session_end" : "2021-05-04T00:06:20Z",
+      "kWh_delivered" : "0.94"
+    },
+    {
+      "session_ID" : "2_39_139_28_2021-05-03 17:54:53.859253",
+      "station_ID" : "39",
+      "port_ID" : "2-39-139-28",
+      "session_start" : "2021-05-03T17:55:06Z",
+      "session_end" : "2021-05-04T03:41:28Z",
+      "kWh_delivered" : "5.445"
+    },
+    {
+      "session_ID" : "2_39_138_29_2021-05-03 21:13:02.279875",
+      "station_ID" : "39",
+      "port_ID" : "2-39-138-29",
+      "session_start" : "2021-05-03T21:13:07Z",
+      "session_end" : "2021-05-04T00:03:15Z",
+      "kWh_delivered" : "6.429"
+    },
+    {
+      "session_ID" : "2_39_81_4550_2021-05-03 21:17:18.501648",
+      "station_ID" : "39",
+      "port_ID" : "2-39-81-4550",
+      "session_start" : "2021-05-03T21:17:28Z",
+      "session_end" : "2021-05-03T21:45:47Z",
+      "kWh_delivered" : "13.642"
+    },
+    {
+      "session_ID" : "2_39_125_21_2021-05-03 23:29:47.481303",
+      "station_ID" : "39",
+      "port_ID" : "2-39-125-21",
+      "session_start" : "2021-05-03T23:29:56Z",
+      "session_end" : "2021-05-04T00:48:29Z",
+      "kWh_delivered" : "0.861"
+    },
+    {
+      "session_ID" : "2_39_131_30_2021-05-04 01:18:17.760976",
+      "station_ID" : "39",
+      "port_ID" : "2-39-131-30",
+      "session_start" : "2021-05-04T01:18:22Z",
+      "session_end" : "2021-05-04T02:10:00Z",
+      "kWh_delivered" : "5.586"
+    },
+    {
+      "session_ID" : "2_39_81_4550_2021-05-04 01:55:20.926678",
+      "station_ID" : "39",
+      "port_ID" : "2-39-81-4550",
+      "session_start" : "2021-05-04T01:55:39Z",
+      "session_end" : "2021-05-04T02:40:33Z",
+      "kWh_delivered" : "22.352"
+    },
+    {
+      "session_ID" : "2_39_129_17_2021-05-04 15:00:42.972984",
+      "station_ID" : "39",
+      "port_ID" : "2-39-129-17",
+      "session_start" : "2021-05-04T15:00:53Z",
+      "session_end" : "2021-05-04T19:11:00Z",
+      "kWh_delivered" : "7.007"
+    },
+    {
+      "session_ID" : "2_39_139_28_2021-05-04 16:19:58.883387",
+      "station_ID" : "39",
+      "port_ID" : "2-39-139-28",
+      "session_start" : "2021-05-04T16:19:59Z",
+      "session_end" : "2021-05-05T00:12:24Z",
+      "kWh_delivered" : "5.948"
+    },
+    {
+      "session_ID" : "2_39_79_379_2021-05-04 17:42:36.063370",
+      "station_ID" : "39",
+      "port_ID" : "2-39-79-379",
+      "session_start" : "2021-05-04T17:42:37Z",
+      "session_end" : "2021-05-05T01:21:07Z",
+      "kWh_delivered" : "5.7"
+    },
+    {
+      "session_ID" : "2_39_79_377_2021-05-04 17:49:32.161585",
+      "station_ID" : "39",
+      "port_ID" : "2-39-79-377",
+      "session_start" : "2021-05-04T17:49:42Z",
+      "session_end" : "2021-05-04T21:44:41Z",
+      "kWh_delivered" : "26.212"
+    },
+    {
+      "session_ID" : "2_39_125_21_2021-05-04 17:56:01.285185",
+      "station_ID" : "39",
+      "port_ID" : "2-39-125-21",
+      "session_start" : "2021-05-04T17:56:09Z",
+      "session_end" : "2021-05-04T18:45:56Z",
+      "kWh_delivered" : "1.613"
+    },
+    {
+      "session_ID" : "2_39_91_437_2021-05-04 19:20:29.694048",
+      "station_ID" : "39",
+      "port_ID" : "2-39-91-437",
+      "session_start" : "2021-05-04T19:20:39Z",
+      "session_end" : "2021-05-04T21:36:48Z",
+      "kWh_delivered" : "7.771"
+    },
+    {
+      "session_ID" : "2_39_78_366_2021-05-04 20:35:19.020599",
+      "station_ID" : "39",
+      "port_ID" : "2-39-78-366",
+      "session_start" : "2021-05-04T20:35:23Z",
+      "session_end" : "2021-05-04T21:52:57Z",
+      "kWh_delivered" : "4.458"
+    },
+    {
+      "session_ID" : "2_39_131_30_2021-05-04 21:16:40.694850",
+      "station_ID" : "39",
+      "port_ID" : "2-39-131-30",
+      "session_start" : "2021-05-04T21:16:41Z",
+      "session_end" : "2021-05-04T21:40:24Z",
+      "kWh_delivered" : "0.608"
+    },
+    {
+      "session_ID" : "2_39_138_29_2021-05-04 21:18:47.729661",
+      "station_ID" : "39",
+      "port_ID" : "2-39-138-29",
+      "session_start" : "2021-05-04T21:18:55Z",
+      "session_end" : "2021-05-05T00:09:05Z",
+      "kWh_delivered" : "5.996"
+    },
+    {
+      "session_ID" : "2_39_78_365_2021-05-04 21:22:55.863869",
+      "station_ID" : "39",
+      "port_ID" : "2-39-78-365",
+      "session_start" : "2021-05-04T21:23:12Z",
+      "session_end" : "2021-05-04T23:20:41Z",
+      "kWh_delivered" : "1.929"
+    },
+    {
+      "session_ID" : "2_39_131_30_2021-05-04 21:43:37.132676",
+      "station_ID" : "39",
+      "port_ID" : "2-39-131-30",
+      "session_start" : "2021-05-04T21:43:37Z",
+      "session_end" : "2021-05-04T22:30:24Z",
+      "kWh_delivered" : "5.154"
+    },
+    {
+      "session_ID" : "2_39_131_30_2021-05-05 02:22:38.257837",
+      "station_ID" : "39",
+      "port_ID" : "2-39-131-30",
+      "session_start" : "2021-05-05T02:22:45Z",
+      "session_end" : "2021-05-05T06:30:18Z",
+      "kWh_delivered" : "15.025"
+    },
+    {
+      "session_ID" : "2_39_81_4550_2021-05-05 02:37:17.126892",
+      "station_ID" : "39",
+      "port_ID" : "2-39-81-4550",
+      "session_start" : "2021-05-05T02:37:26Z",
+      "session_end" : "2021-05-05T03:11:15Z",
+      "kWh_delivered" : "13.006"
+    },
+    {
+      "session_ID" : "2_39_125_21_2021-05-05 14:34:57.915557",
+      "station_ID" : "39",
+      "port_ID" : "2-39-125-21",
+      "session_start" : "2021-05-05T14:35:11Z",
+      "session_end" : "2021-05-05T15:34:19Z",
+      "kWh_delivered" : "3.268"
+    },
+    {
+      "session_ID" : "2_39_131_30_2021-05-05 15:09:26.881186",
+      "station_ID" : "39",
+      "port_ID" : "2-39-131-30",
+      "session_start" : "2021-05-05T15:09:37Z",
+      "session_end" : "2021-05-05T19:02:07Z",
+      "kWh_delivered" : "2.792"
+    },
+    {
+      "session_ID" : "2_39_139_28_2021-05-05 15:26:18.651072",
+      "station_ID" : "39",
+      "port_ID" : "2-39-139-28",
+      "session_start" : "2021-05-05T15:26:31Z",
+      "session_end" : "2021-05-05T18:51:02Z",
+      "kWh_delivered" : "6.333"
+    },
+    {
+      "session_ID" : "2_39_129_17_2021-05-05 15:26:42.378791",
+      "station_ID" : "39",
+      "port_ID" : "2-39-129-17",
+      "session_start" : "2021-05-05T15:26:46Z",
+      "session_end" : "2021-05-06T00:08:31Z",
+      "kWh_delivered" : "6.129"
+    },
+    {
+      "session_ID" : "2_39_79_379_2021-05-05 18:16:35.691587",
+      "station_ID" : "39",
+      "port_ID" : "2-39-79-379",
+      "session_start" : "2021-05-05T18:16:41Z",
+      "session_end" : "2021-05-05T23:56:30Z",
+      "kWh_delivered" : "5.792"
+    },
+    {
+      "session_ID" : "2_39_139_28_2021-05-05 19:12:18.120441",
+      "station_ID" : "39",
+      "port_ID" : "2-39-139-28",
+      "session_start" : "2021-05-05T19:12:28Z",
+      "session_end" : "2021-05-05T22:54:19Z",
+      "kWh_delivered" : "0.805"
+    },
+    {
+      "session_ID" : "2_39_131_30_2021-05-05 20:48:02.310274",
+      "station_ID" : "39",
+      "port_ID" : "2-39-131-30",
+      "session_start" : "2021-05-05T20:48:15Z",
+      "session_end" : "2021-05-06T06:05:20Z",
+      "kWh_delivered" : "16.18"
+    },
+    {
+      "session_ID" : "2_39_138_29_2021-05-05 21:14:47.495869",
+      "station_ID" : "39",
+      "port_ID" : "2-39-138-29",
+      "session_start" : "2021-05-05T21:14:55Z",
+      "session_end" : "2021-05-06T00:05:13Z",
+      "kWh_delivered" : "6.272"
+    },
+    {
+      "session_ID" : "2_39_81_4550_2021-05-06 00:58:33.580348",
+      "station_ID" : "39",
+      "port_ID" : "2-39-81-4550",
+      "session_start" : "2021-05-06T00:58:59Z",
+      "session_end" : "2021-05-06T01:26:11Z",
+      "kWh_delivered" : "5.402"
+    },
+    {
+      "session_ID" : "2_39_81_4550_2021-05-06 03:50:40.029985",
+      "station_ID" : "39",
+      "port_ID" : "2-39-81-4550",
+      "session_start" : "2021-05-06T03:51:25Z",
+      "session_end" : "2021-05-06T04:46:04Z",
+      "kWh_delivered" : "37.288"
+    },
+    {
+      "session_ID" : "2_39_81_4550_2021-05-06 05:19:22.977919",
+      "station_ID" : "39",
+      "port_ID" : "2-39-81-4550",
+      "session_start" : "2021-05-06T05:19:40Z",
+      "session_end" : "2021-05-06T06:14:12Z",
+      "kWh_delivered" : "36.762"
+    },
+    {
+      "session_ID" : "2_39_131_30_2021-05-06 15:09:06.278982",
+      "station_ID" : "39",
+      "port_ID" : "2-39-131-30",
+      "session_start" : "2021-05-06T15:09:13Z",
+      "session_end" : "2021-05-06T18:51:17Z",
+      "kWh_delivered" : "12.332"
+    },
+    {
+      "session_ID" : "2_39_138_29_2021-05-06 15:25:23.598188",
+      "station_ID" : "39",
+      "port_ID" : "2-39-138-29",
+      "session_start" : "2021-05-06T15:25:30Z",
+      "session_end" : "2021-05-06T20:37:21Z",
+      "kWh_delivered" : "6.051"
+    },
+    {
+      "session_ID" : "2_39_129_17_2021-05-06 15:51:19.875625",
+      "station_ID" : "39",
+      "port_ID" : "2-39-129-17",
+      "session_start" : "2021-05-06T15:51:48Z",
+      "session_end" : "2021-05-07T00:10:26Z",
+      "kWh_delivered" : "6.169"
+    },
+    {
+      "session_ID" : "2_39_127_19_2021-05-06 17:10:40.346669",
+      "station_ID" : "39",
+      "port_ID" : "2-39-127-19",
+      "session_start" : "2021-05-06T17:10:43Z",
+      "session_end" : "2021-05-06T18:19:45Z",
+      "kWh_delivered" : "3.165"
+    },
+    {
+      "session_ID" : "2_39_81_4550_2021-05-06 18:29:30.787670",
+      "station_ID" : "39",
+      "port_ID" : "2-39-81-4550",
+      "session_start" : "2021-05-06T18:30:32Z",
+      "session_end" : "2021-05-06T19:03:19Z",
+      "kWh_delivered" : "24.294"
+    },
+    {
+      "session_ID" : "2_39_125_21_2021-05-06 18:52:55.935796",
+      "station_ID" : "39",
+      "port_ID" : "2-39-125-21",
+      "session_start" : "2021-05-06T18:53:07Z",
+      "session_end" : "2021-05-06T19:38:03Z",
+      "kWh_delivered" : "2.484"
+    },
+    {
+      "session_ID" : "2_39_81_4550_2021-05-06 20:15:19.021468",
+      "station_ID" : "39",
+      "port_ID" : "2-39-81-4550",
+      "session_start" : "2021-05-06T20:15:35Z",
+      "session_end" : "2021-05-06T21:05:54Z",
+      "kWh_delivered" : "24.376"
+    },
+    {
+      "session_ID" : "2_39_81_4550_2021-05-06 21:52:40.311140",
+      "station_ID" : "39",
+      "port_ID" : "2-39-81-4550",
+      "session_start" : "2021-05-06T21:52:48Z",
+      "session_end" : "2021-05-06T22:28:10Z",
+      "kWh_delivered" : "13.306"
+    },
+    {
+      "session_ID" : "2_39_131_30_2021-05-07 01:23:19.619716",
+      "station_ID" : "39",
+      "port_ID" : "2-39-131-30",
+      "session_start" : "2021-05-07T01:23:32Z",
+      "session_end" : "2021-05-07T02:58:53Z",
+      "kWh_delivered" : "10.911"
+    },
+    {
+      "session_ID" : "2_39_81_4550_2021-05-07 01:41:08.827345",
+      "station_ID" : "39",
+      "port_ID" : "2-39-81-4550",
+      "session_start" : "2021-05-07T01:41:14Z",
+      "session_end" : "2021-05-07T02:05:55Z",
+      "kWh_delivered" : "7.844"
+    },
+    {
+      "session_ID" : "2_39_81_4550_2021-05-07 02:48:20.547147",
+      "station_ID" : "39",
+      "port_ID" : "2-39-81-4550",
+      "session_start" : "2021-05-07T02:48:27Z",
+      "session_end" : "2021-05-07T03:10:41Z",
+      "kWh_delivered" : "16.504"
+    },
+    {
+      "session_ID" : "2_39_81_4550_2021-05-07 04:37:11.198856",
+      "station_ID" : "39",
+      "port_ID" : "2-39-81-4550",
+      "session_start" : "2021-05-07T04:37:16Z",
+      "session_end" : "2021-05-07T05:10:15Z",
+      "kWh_delivered" : "14.422"
+    },
+    {
+      "session_ID" : "2_39_81_4550_2021-05-07 13:33:52.599274",
+      "station_ID" : "39",
+      "port_ID" : "2-39-81-4550",
+      "session_start" : "2021-05-07T13:34:15Z",
+      "session_end" : "2021-05-07T14:27:05Z",
+      "kWh_delivered" : "34.27"
+    },
+    {
+      "session_ID" : "2_39_131_30_2021-05-07 15:14:46.226295",
+      "station_ID" : "39",
+      "port_ID" : "2-39-131-30",
+      "session_start" : "2021-05-07T15:14:57Z",
+      "session_end" : "2021-05-07T22:21:27Z",
+      "kWh_delivered" : "23.287"
+    },
+    {
+      "session_ID" : "2_39_129_17_2021-05-07 15:24:10.290232",
+      "station_ID" : "39",
+      "port_ID" : "2-39-129-17",
+      "session_start" : "2021-05-07T15:24:17Z",
+      "session_end" : "2021-05-07T23:31:25Z",
+      "kWh_delivered" : "20.224"
+    },
+    {
+      "session_ID" : "2_39_79_380_2021-05-07 15:33:10.679381",
+      "station_ID" : "39",
+      "port_ID" : "2-39-79-380",
+      "session_start" : "2021-05-07T15:33:24Z",
+      "session_end" : "2021-05-07T22:12:04Z",
+      "kWh_delivered" : "8.87"
+    },
+    {
+      "session_ID" : "2_39_139_28_2021-05-07 15:38:43.321684",
+      "station_ID" : "39",
+      "port_ID" : "2-39-139-28",
+      "session_start" : "2021-05-07T15:38:56Z",
+      "session_end" : "2021-05-07T18:19:13Z",
+      "kWh_delivered" : "6.334"
+    },
+    {
+      "session_ID" : "2_39_81_4550_2021-05-07 15:44:17.030178",
+      "station_ID" : "39",
+      "port_ID" : "2-39-81-4550",
+      "session_start" : "2021-05-07T15:44:27Z",
+      "session_end" : "2021-05-07T16:54:23Z",
+      "kWh_delivered" : "24.02"
+    },
+    {
+      "session_ID" : "2_39_79_379_2021-05-07 17:10:56.335554",
+      "station_ID" : "39",
+      "port_ID" : "2-39-79-379",
+      "session_start" : "2021-05-07T17:11:07Z",
+      "session_end" : "2021-05-08T00:54:57Z",
+      "kWh_delivered" : "10.12"
+    },
+    {
+      "session_ID" : "2_39_81_4550_2021-05-07 20:52:40.228062",
+      "station_ID" : "39",
+      "port_ID" : "2-39-81-4550",
+      "session_start" : "2021-05-07T20:52:46Z",
+      "session_end" : "2021-05-07T22:21:06Z",
+      "kWh_delivered" : "51.928"
+    },
+    {
+      "session_ID" : "2_39_125_21_2021-05-07 22:55:38.331009",
+      "station_ID" : "39",
+      "port_ID" : "2-39-125-21",
+      "session_start" : "2021-05-07T22:55:48Z",
+      "session_end" : "2021-05-07T23:47:33Z",
+      "kWh_delivered" : "2.857"
+    },
+    {
+      "session_ID" : "2_39_81_4550_2021-05-08 00:29:58.291409",
+      "station_ID" : "39",
+      "port_ID" : "2-39-81-4550",
+      "session_start" : "2021-05-08T00:30:12Z",
+      "session_end" : "2021-05-08T01:32:40Z",
+      "kWh_delivered" : "39.366"
+    },
+    {
+      "session_ID" : "2_39_81_4550_2021-05-08 01:48:40.370687",
+      "station_ID" : "39",
+      "port_ID" : "2-39-81-4550",
+      "session_start" : "2021-05-08T01:48:48Z",
+      "session_end" : "2021-05-08T02:15:19Z",
+      "kWh_delivered" : "19.122"
+    },
+    {
+      "session_ID" : "2_39_81_4550_2021-05-08 04:18:42.795113",
+      "station_ID" : "39",
+      "port_ID" : "2-39-81-4550",
+      "session_start" : "2021-05-08T04:18:50Z",
+      "session_end" : "2021-05-08T04:46:21Z",
+      "kWh_delivered" : "7.584"
+    },
+    {
+      "session_ID" : "2_39_81_4550_2021-05-08 16:19:42.995370",
+      "station_ID" : "39",
+      "port_ID" : "2-39-81-4550",
+      "session_start" : "2021-05-08T16:19:55Z",
+      "session_end" : "2021-05-08T17:03:00Z",
+      "kWh_delivered" : "33.08"
+    },
+    {
+      "session_ID" : "2_39_79_380_2021-05-08 18:46:39.303034",
+      "station_ID" : "39",
+      "port_ID" : "2-39-79-380",
+      "session_start" : "2021-05-08T18:46:53Z",
+      "session_end" : "2021-05-08T20:21:04Z",
+      "kWh_delivered" : "3.577"
+    },
+    {
+      "session_ID" : "2_39_81_4550_2021-05-08 21:07:36.914873",
+      "station_ID" : "39",
+      "port_ID" : "2-39-81-4550",
+      "session_start" : "2021-05-08T21:07:46Z",
+      "session_end" : "2021-05-08T21:40:13Z",
+      "kWh_delivered" : "21.622"
+    },
+    {
+      "session_ID" : "2_39_125_21_2021-05-08 21:55:42.459611",
+      "station_ID" : "39",
+      "port_ID" : "2-39-125-21",
+      "session_start" : "2021-05-08T21:55:50Z",
+      "session_end" : "2021-05-08T22:40:14Z",
+      "kWh_delivered" : "2.462"
+    },
+    {
+      "session_ID" : "2_39_81_4550_2021-05-08 22:48:02.162432",
+      "station_ID" : "39",
+      "port_ID" : "2-39-81-4550",
+      "session_start" : "2021-05-08T22:48:07Z",
+      "session_end" : "2021-05-08T23:13:09Z",
+      "kWh_delivered" : "18.788"
+    },
+    {
+      "session_ID" : "2_39_81_4550_2021-05-09 02:20:40.010806",
+      "station_ID" : "39",
+      "port_ID" : "2-39-81-4550",
+      "session_start" : "2021-05-09T02:20:53Z",
+      "session_end" : "2021-05-09T02:55:33Z",
+      "kWh_delivered" : "20.384"
+    },
+    {
+      "session_ID" : "2_39_131_30_2021-05-09 02:25:42.779099",
+      "station_ID" : "39",
+      "port_ID" : "2-39-131-30",
+      "session_start" : "2021-05-09T02:25:43Z",
+      "session_end" : "2021-05-09T02:50:05Z",
+      "kWh_delivered" : "0.672"
+    },
+    {
+      "session_ID" : "2_39_131_30_2021-05-09 05:33:21.978888",
+      "station_ID" : "39",
+      "port_ID" : "2-39-131-30",
+      "session_start" : "2021-05-09T05:33:29Z",
+      "session_end" : "2021-05-09T19:43:14Z",
+      "kWh_delivered" : "8.257"
+    },
+    {
+      "session_ID" : "2_39_81_4550_2021-05-09 13:56:32.987321",
+      "station_ID" : "39",
+      "port_ID" : "2-39-81-4550",
+      "session_start" : "2021-05-09T13:56:39Z",
+      "session_end" : "2021-05-09T14:52:37Z",
+      "kWh_delivered" : "41.416"
+    },
+    {
+      "session_ID" : "2_39_79_379_2021-05-09 18:32:56.205150",
+      "station_ID" : "39",
+      "port_ID" : "2-39-79-379",
+      "session_start" : "2021-05-09T18:33:03Z",
+      "session_end" : "2021-05-10T01:48:19Z",
+      "kWh_delivered" : "9.417"
+    },
+    {
+      "session_ID" : "2_39_81_4550_2021-05-09 18:48:44.910611",
+      "station_ID" : "39",
+      "port_ID" : "2-39-81-4550",
+      "session_start" : "2021-05-09T18:48:58Z",
+      "session_end" : "2021-05-09T19:34:29Z",
+      "kWh_delivered" : "12.226"
+    },
+    {
+      "session_ID" : "2_39_130_31_2021-05-09 21:25:57.363733",
+      "station_ID" : "39",
+      "port_ID" : "2-39-130-31",
+      "session_start" : "2021-05-09T21:26:04Z",
+      "session_end" : "2021-05-09T22:46:12Z",
+      "kWh_delivered" : "8.651"
+    },
+    {
+      "session_ID" : "2_39_78_365_2021-05-10 00:19:56.928155",
+      "station_ID" : "39",
+      "port_ID" : "2-39-78-365",
+      "session_start" : "2021-05-10T00:20:16Z",
+      "session_end" : "2021-05-10T02:52:44Z",
+      "kWh_delivered" : "2.276"
+    },
+    {
+      "session_ID" : "2_39_139_28_2021-05-10 01:19:28.800651",
+      "station_ID" : "39",
+      "port_ID" : "2-39-139-28",
+      "session_start" : "2021-05-10T01:19:29Z",
+      "session_end" : "2021-05-10T02:10:07Z",
+      "kWh_delivered" : "1.87"
+    },
+    {
+      "session_ID" : "2_39_81_4550_2021-05-10 01:56:35.395130",
+      "station_ID" : "39",
+      "port_ID" : "2-39-81-4550",
+      "session_start" : "2021-05-10T01:56:39Z",
+      "session_end" : "2021-05-10T02:57:50Z",
+      "kWh_delivered" : "44.298"
+    },
+    {
+      "session_ID" : "2_39_81_4550_2021-05-10 03:23:00.768710",
+      "station_ID" : "39",
+      "port_ID" : "2-39-81-4550",
+      "session_start" : "2021-05-10T03:23:11Z",
+      "session_end" : "2021-05-10T03:29:59Z",
+      "kWh_delivered" : "4.524"
+    },
+    {
+      "session_ID" : "2_39_81_4550_2021-05-10 03:46:37.073533",
+      "station_ID" : "39",
+      "port_ID" : "2-39-81-4550",
+      "session_start" : "2021-05-10T03:46:40Z",
+      "session_end" : "2021-05-10T04:07:26Z",
+      "kWh_delivered" : "13.31"
+    },
+    {
+      "session_ID" : "2_39_79_380_2021-05-10 15:06:06.953578",
+      "station_ID" : "39",
+      "port_ID" : "2-39-79-380",
+      "session_start" : "2021-05-10T15:06:15Z",
+      "session_end" : "2021-05-11T01:56:16Z",
+      "kWh_delivered" : "43.752"
+    },
+    {
+      "session_ID" : "2_39_131_30_2021-05-10 15:21:28.328814",
+      "station_ID" : "39",
+      "port_ID" : "2-39-131-30",
+      "session_start" : "2021-05-10T15:21:31Z",
+      "session_end" : "2021-05-10T19:08:14Z",
+      "kWh_delivered" : "13.022"
+    },
+    {
+      "session_ID" : "2_39_139_28_2021-05-10 16:29:30.530041",
+      "station_ID" : "39",
+      "port_ID" : "2-39-139-28",
+      "session_start" : "2021-05-10T16:29:31Z",
+      "session_end" : "2021-05-11T00:11:10Z",
+      "kWh_delivered" : "5.861"
+    },
+    {
+      "session_ID" : "2_39_138_29_2021-05-10 19:26:16.046455",
+      "station_ID" : "39",
+      "port_ID" : "2-39-138-29",
+      "session_start" : "2021-05-10T19:26:27Z",
+      "session_end" : "2021-05-10T23:38:08Z",
+      "kWh_delivered" : "6.243"
+    },
+    {
+      "session_ID" : "2_39_81_4550_2021-05-10 21:49:34.948181",
+      "station_ID" : "39",
+      "port_ID" : "2-39-81-4550",
+      "session_start" : "2021-05-10T21:49:44Z",
+      "session_end" : "2021-05-10T22:42:27Z",
+      "kWh_delivered" : "21.316"
+    },
+    {
+      "session_ID" : "2_39_125_21_2021-05-10 23:28:06.107073",
+      "station_ID" : "39",
+      "port_ID" : "2-39-125-21",
+      "session_start" : "2021-05-10T23:28:15Z",
+      "session_end" : "2021-05-11T00:29:55Z",
+      "kWh_delivered" : "1.616"
+    },
+    {
+      "session_ID" : "2_39_139_28_2021-05-11 02:16:24.373798",
+      "station_ID" : "39",
+      "port_ID" : "2-39-139-28",
+      "session_start" : "2021-05-11T02:16:44Z",
+      "session_end" : "2021-05-11T02:38:05Z",
+      "kWh_delivered" : "2.447"
+    },
+    {
+      "session_ID" : "2_39_81_4550_2021-05-11 02:30:53.511937",
+      "station_ID" : "39",
+      "port_ID" : "2-39-81-4550",
+      "session_start" : "2021-05-11T02:31:02Z",
+      "session_end" : "2021-05-11T04:19:58Z",
+      "kWh_delivered" : "72.582"
+    },
+    {
+      "session_ID" : "2_39_79_383_2021-05-11 03:58:52.346595",
+      "station_ID" : "39",
+      "port_ID" : "2-39-79-383",
+      "session_start" : "2021-05-11T03:58:52Z",
+      "session_end" : "2021-05-11T07:13:28Z",
+      "kWh_delivered" : "17.449"
+    },
+    {
+      "session_ID" : "2_39_129_17_2021-05-11 14:40:47.960194",
+      "station_ID" : "39",
+      "port_ID" : "2-39-129-17",
+      "session_start" : "2021-05-11T14:41:01Z",
+      "session_end" : "2021-05-12T00:35:20Z",
+      "kWh_delivered" : "6.346"
+    },
+    {
+      "session_ID" : "2_39_81_4550_2021-05-11 15:42:29.943432",
+      "station_ID" : "39",
+      "port_ID" : "2-39-81-4550",
+      "session_start" : "2021-05-11T15:42:46Z",
+      "session_end" : "2021-05-11T16:45:46Z",
+      "kWh_delivered" : "46.616"
+    },
+    {
+      "session_ID" : "2_39_127_561_2021-05-11 16:57:56.230253",
+      "station_ID" : "39",
+      "port_ID" : "2-39-127-561",
+      "session_start" : "2021-05-11T16:57:56Z",
+      "session_end" : "2021-05-11T19:06:38Z",
+      "kWh_delivered" : "0.949"
+    },
+    {
+      "session_ID" : "2_39_79_379_2021-05-11 17:23:53.414768",
+      "station_ID" : "39",
+      "port_ID" : "2-39-79-379",
+      "session_start" : "2021-05-11T17:24:15Z",
+      "session_end" : "2021-05-12T01:25:17Z",
+      "kWh_delivered" : "10.018"
+    },
+    {
+      "session_ID" : "2_39_125_21_2021-05-11 19:58:47.422522",
+      "station_ID" : "39",
+      "port_ID" : "2-39-125-21",
+      "session_start" : "2021-05-11T19:58:56Z",
+      "session_end" : "2021-05-11T22:35:24Z",
+      "kWh_delivered" : "1.89"
+    },
+    {
+      "session_ID" : "2_39_79_377_2021-05-11 20:48:33.736669",
+      "station_ID" : "39",
+      "port_ID" : "2-39-79-377",
+      "session_start" : "2021-05-11T20:48:49Z",
+      "session_end" : "2021-05-12T05:12:34Z",
+      "kWh_delivered" : "10.709"
+    },
+    {
+      "session_ID" : "2_39_78_365_2021-05-11 20:53:15.240262",
+      "station_ID" : "39",
+      "port_ID" : "2-39-78-365",
+      "session_start" : "2021-05-11T20:53:48Z",
+      "session_end" : "2021-05-12T03:13:25Z",
+      "kWh_delivered" : "2.219"
+    },
+    {
+      "session_ID" : "2_39_139_28_2021-05-11 20:56:48.893155",
+      "station_ID" : "39",
+      "port_ID" : "2-39-139-28",
+      "session_start" : "2021-05-11T20:56:49Z",
+      "session_end" : "2021-05-12T00:14:38Z",
+      "kWh_delivered" : "0.787"
+    },
+    {
+      "session_ID" : "2_39_81_4550_2021-05-11 22:07:30.385687",
+      "station_ID" : "39",
+      "port_ID" : "2-39-81-4550",
+      "session_start" : "2021-05-11T22:07:37Z",
+      "session_end" : "2021-05-11T22:30:02Z",
+      "kWh_delivered" : "7.188"
+    },
+    {
+      "session_ID" : "2_39_81_4550_2021-05-12 01:03:30.432119",
+      "station_ID" : "39",
+      "port_ID" : "2-39-81-4550",
+      "session_start" : "2021-05-12T01:03:46Z",
+      "session_end" : "2021-05-12T01:24:36Z",
+      "kWh_delivered" : "9.754"
+    },
+    {
+      "session_ID" : "2_39_83_386_2021-05-12 02:01:15.914994",
+      "station_ID" : "39",
+      "port_ID" : "2-39-83-386",
+      "session_start" : "2021-05-12T02:01:16Z",
+      "session_end" : "2021-05-12T03:42:32Z",
+      "kWh_delivered" : "2.533"
+    },
+    {
+      "session_ID" : "2_39_81_4550_2021-05-12 02:52:43.024250",
+      "station_ID" : "39",
+      "port_ID" : "2-39-81-4550",
+      "session_start" : "2021-05-12T02:52:53Z",
+      "session_end" : "2021-05-12T04:00:03Z",
+      "kWh_delivered" : "16.962"
+    },
+    {
+      "session_ID" : "2_39_81_4550_2021-05-12 13:35:46.963955",
+      "station_ID" : "39",
+      "port_ID" : "2-39-81-4550",
+      "session_start" : "2021-05-12T13:36:03Z",
+      "session_end" : "2021-05-12T14:32:02Z",
+      "kWh_delivered" : "42.358"
+    },
+    {
+      "session_ID" : "2_39_79_380_2021-05-12 15:32:50.019390",
+      "station_ID" : "39",
+      "port_ID" : "2-39-79-380",
+      "session_start" : "2021-05-12T15:33:02Z",
+      "session_end" : "2021-05-13T00:19:34Z",
+      "kWh_delivered" : "3.936"
+    },
+    {
+      "session_ID" : "2_39_79_379_2021-05-12 16:59:21.191013",
+      "station_ID" : "39",
+      "port_ID" : "2-39-79-379",
+      "session_start" : "2021-05-12T16:59:21Z",
+      "session_end" : "2021-05-12T18:27:53Z",
+      "kWh_delivered" : "2.506"
+    },
+    {
+      "session_ID" : "2_39_139_28_2021-05-12 17:22:15.502381",
+      "station_ID" : "39",
+      "port_ID" : "2-39-139-28",
+      "session_start" : "2021-05-12T17:22:22Z",
+      "session_end" : "2021-05-13T02:20:04Z",
+      "kWh_delivered" : "6.207"
+    },
+    {
+      "session_ID" : "2_39_131_30_2021-05-12 18:44:43.892736",
+      "station_ID" : "39",
+      "port_ID" : "2-39-131-30",
+      "session_start" : "2021-05-12T18:45:03Z",
+      "session_end" : "2021-05-13T01:50:04Z",
+      "kWh_delivered" : "11.424"
+    },
+    {
+      "session_ID" : "2_39_129_17_2021-05-12 20:04:08.802050",
+      "station_ID" : "39",
+      "port_ID" : "2-39-129-17",
+      "session_start" : "2021-05-12T20:04:13Z",
+      "session_end" : "2021-05-13T00:03:53Z",
+      "kWh_delivered" : "4.614"
+    },
+    {
+      "session_ID" : "2_39_138_29_2021-05-12 21:13:11.290298",
+      "station_ID" : "39",
+      "port_ID" : "2-39-138-29",
+      "session_start" : "2021-05-12T21:13:19Z",
+      "session_end" : "2021-05-13T00:07:26Z",
+      "kWh_delivered" : "6.282"
+    },
+    {
+      "session_ID" : "2_39_79_378_2021-05-12 21:53:14.974222",
+      "station_ID" : "39",
+      "port_ID" : "2-39-79-378",
+      "session_start" : "2021-05-12T21:53:30Z",
+      "session_end" : "2021-05-13T04:26:08Z",
+      "kWh_delivered" : "8.304"
+    },
+    {
+      "session_ID" : "2_39_130_31_2021-05-12 23:12:07.828084",
+      "station_ID" : "39",
+      "port_ID" : "2-39-130-31",
+      "session_start" : "2021-05-12T23:12:27Z",
+      "session_end" : "2021-05-13T03:50:32Z",
+      "kWh_delivered" : "16.055"
+    },
+    {
+      "session_ID" : "2_39_125_21_2021-05-12 23:33:30.794255",
+      "station_ID" : "39",
+      "port_ID" : "2-39-125-21",
+      "session_start" : "2021-05-12T23:33:44Z",
+      "session_end" : "2021-05-13T00:31:23Z",
+      "kWh_delivered" : "1.908"
+    },
+    {
+      "session_ID" : "2_39_81_4550_2021-05-13 00:34:16.882154",
+      "station_ID" : "39",
+      "port_ID" : "2-39-81-4550",
+      "session_start" : "2021-05-13T00:34:44Z",
+      "session_end" : "2021-05-13T01:31:53Z",
+      "kWh_delivered" : "15.344"
+    },
+    {
+      "session_ID" : "2_39_128_18_2021-05-13 01:15:39.553753",
+      "station_ID" : "39",
+      "port_ID" : "2-39-128-18",
+      "session_start" : "2021-05-13T01:16:12Z",
+      "session_end" : "2021-05-13T02:38:22Z",
+      "kWh_delivered" : "9.324"
+    },
+    {
+      "session_ID" : "2_39_126_20_2021-05-13 01:43:25.931020",
+      "station_ID" : "39",
+      "port_ID" : "2-39-126-20",
+      "session_start" : "2021-05-13T01:44:14Z",
+      "session_end" : "2021-05-13T04:16:17Z",
+      "kWh_delivered" : "8.977"
+    },
+    {
+      "session_ID" : "2_39_81_4550_2021-05-13 03:09:18.193911",
+      "station_ID" : "39",
+      "port_ID" : "2-39-81-4550",
+      "session_start" : "2021-05-13T03:09:31Z",
+      "session_end" : "2021-05-13T04:18:31Z",
+      "kWh_delivered" : "37.65"
+    },
+    {
+      "session_ID" : "2_39_81_4550_2021-05-13 14:25:18.737320",
+      "station_ID" : "39",
+      "port_ID" : "2-39-81-4550",
+      "session_start" : "2021-05-13T14:25:32Z",
+      "session_end" : "2021-05-13T14:42:56Z",
+      "kWh_delivered" : "6.418"
+    },
+    {
+      "session_ID" : "2_39_81_4550_2021-05-13 15:56:14.319151",
+      "station_ID" : "39",
+      "port_ID" : "2-39-81-4550",
+      "session_start" : "2021-05-13T15:56:21Z",
+      "session_end" : "2021-05-13T16:34:33Z",
+      "kWh_delivered" : "27.088"
+    },
+    {
+      "session_ID" : "2_39_79_379_2021-05-13 16:10:48.774986",
+      "station_ID" : "39",
+      "port_ID" : "2-39-79-379",
+      "session_start" : "2021-05-13T16:10:49Z",
+      "session_end" : "2021-05-13T23:30:27Z",
+      "kWh_delivered" : "0.956"
+    },
+    {
+      "session_ID" : "2_39_79_377_2021-05-13 16:11:59.096872",
+      "station_ID" : "39",
+      "port_ID" : "2-39-79-377",
+      "session_start" : "2021-05-13T16:12:04Z",
+      "session_end" : "2021-05-14T01:20:38Z",
+      "kWh_delivered" : "9.79"
+    },
+    {
+      "session_ID" : "2_39_81_4550_2021-05-13 17:35:29.864993",
+      "station_ID" : "39",
+      "port_ID" : "2-39-81-4550",
+      "session_start" : "2021-05-13T17:36:04Z",
+      "session_end" : "2021-05-13T18:41:44Z",
+      "kWh_delivered" : "49.224"
+    },
+    {
+      "session_ID" : "2_39_129_17_2021-05-13 20:34:39.940196",
+      "station_ID" : "39",
+      "port_ID" : "2-39-129-17",
+      "session_start" : "2021-05-13T20:34:50Z",
+      "session_end" : "2021-05-13T23:59:45Z",
+      "kWh_delivered" : "2.6"
+    },
+    {
+      "session_ID" : "2_39_125_21_2021-05-13 21:57:59.858299",
+      "station_ID" : "39",
+      "port_ID" : "2-39-125-21",
+      "session_start" : "2021-05-13T21:58:15Z",
+      "session_end" : "2021-05-13T22:42:41Z",
+      "kWh_delivered" : "2.472"
+    },
+    {
+      "session_ID" : "2_39_79_376_2021-05-13 23:02:31.976653",
+      "station_ID" : "39",
+      "port_ID" : "2-39-79-376",
+      "session_start" : "2021-05-13T23:02:44Z",
+      "session_end" : "2021-05-14T05:53:09Z",
+      "kWh_delivered" : "9.953"
+    },
+    {
+      "session_ID" : "2_39_79_379_2021-05-13 23:30:48.847428",
+      "station_ID" : "39",
+      "port_ID" : "2-39-79-379",
+      "session_start" : "2021-05-13T23:30:55Z",
+      "session_end" : "2021-05-13T23:48:39Z",
+      "kWh_delivered" : "1.042"
+    },
+    {
+      "session_ID" : "2_39_81_4550_2021-05-13 23:39:45.325467",
+      "station_ID" : "39",
+      "port_ID" : "2-39-81-4550",
+      "session_start" : "2021-05-13T23:39:53Z",
+      "session_end" : "2021-05-14T00:28:36Z",
+      "kWh_delivered" : "28.404"
+    },
+    {
+      "session_ID" : "2_39_81_4550_2021-05-14 00:54:57.304708",
+      "station_ID" : "39",
+      "port_ID" : "2-39-81-4550",
+      "session_start" : "2021-05-14T00:54:59Z",
+      "session_end" : "2021-05-14T02:23:14Z",
+      "kWh_delivered" : "62.518"
+    },
+    {
+      "session_ID" : "2_39_79_383_2021-05-14 03:59:16.897493",
+      "station_ID" : "39",
+      "port_ID" : "2-39-79-383",
+      "session_start" : "2021-05-14T03:59:18Z",
+      "session_end" : "2021-05-14T08:31:21Z",
+      "kWh_delivered" : "9.084"
+    },
+    {
+      "session_ID" : "2_39_79_380_2021-05-14 15:11:30.749297",
+      "station_ID" : "39",
+      "port_ID" : "2-39-79-380",
+      "session_start" : "2021-05-14T15:11:44Z",
+      "session_end" : "2021-05-15T00:34:20Z",
+      "kWh_delivered" : "23.861"
+    },
+    {
+      "session_ID" : "2_39_79_378_2021-05-14 16:01:27.009929",
+      "station_ID" : "39",
+      "port_ID" : "2-39-79-378",
+      "session_start" : "2021-05-14T16:01:39Z",
+      "session_end" : "2021-05-14T19:49:53Z",
+      "kWh_delivered" : "25.407"
+    },
+    {
+      "session_ID" : "2_39_129_17_2021-05-14 16:08:00.846958",
+      "station_ID" : "39",
+      "port_ID" : "2-39-129-17",
+      "session_start" : "2021-05-14T16:08:10Z",
+      "session_end" : "2021-05-14T18:41:32Z",
+      "kWh_delivered" : "6.286"
+    },
+    {
+      "session_ID" : "2_39_78_365_2021-05-14 18:33:25.769596",
+      "station_ID" : "39",
+      "port_ID" : "2-39-78-365",
+      "session_start" : "2021-05-14T18:33:39Z",
+      "session_end" : "2021-05-14T20:15:41Z",
+      "kWh_delivered" : "1.917"
+    },
+    {
+      "session_ID" : "2_39_129_17_2021-05-14 18:56:36.440697",
+      "station_ID" : "39",
+      "port_ID" : "2-39-129-17",
+      "session_start" : "2021-05-14T18:56:55Z",
+      "session_end" : "2021-05-15T00:27:28Z",
+      "kWh_delivered" : "0.65"
+    },
+    {
+      "session_ID" : "2_39_81_4550_2021-05-14 20:22:25.264550",
+      "station_ID" : "39",
+      "port_ID" : "2-39-81-4550",
+      "session_start" : "2021-05-14T20:22:39Z",
+      "session_end" : "2021-05-14T20:37:27Z",
+      "kWh_delivered" : "6.434"
+    },
+    {
+      "session_ID" : "2_39_79_378_2021-05-14 21:17:14.995631",
+      "station_ID" : "39",
+      "port_ID" : "2-39-79-378",
+      "session_start" : "2021-05-14T21:17:26Z",
+      "session_end" : "2021-05-14T22:09:46Z",
+      "kWh_delivered" : "5.992"
+    },
+    {
+      "session_ID" : "2_39_131_30_2021-05-14 21:33:16.130565",
+      "station_ID" : "39",
+      "port_ID" : "2-39-131-30",
+      "session_start" : "2021-05-14T21:33:16Z",
+      "session_end" : "2021-05-14T23:46:28Z",
+      "kWh_delivered" : "12.066"
+    },
+    {
+      "session_ID" : "2_39_125_21_2021-05-14 21:55:19.387021",
+      "station_ID" : "39",
+      "port_ID" : "2-39-125-21",
+      "session_start" : "2021-05-14T21:55:28Z",
+      "session_end" : "2021-05-14T22:44:52Z",
+      "kWh_delivered" : "2.451"
+    },
+    {
+      "session_ID" : "2_39_78_365_2021-05-14 22:34:14.299342",
+      "station_ID" : "39",
+      "port_ID" : "2-39-78-365",
+      "session_start" : "2021-05-14T22:34:30Z",
+      "session_end" : "2021-05-14T23:50:09Z",
+      "kWh_delivered" : "2.377"
+    },
+    {
+      "session_ID" : "2_39_81_4550_2021-05-14 23:07:21.268667",
+      "station_ID" : "39",
+      "port_ID" : "2-39-81-4550",
+      "session_start" : "2021-05-14T23:07:24Z",
+      "session_end" : "2021-05-14T23:56:32Z",
+      "kWh_delivered" : "29.078"
+    },
+    {
+      "session_ID" : "2_39_81_4550_2021-05-15 00:22:19.239135",
+      "station_ID" : "39",
+      "port_ID" : "2-39-81-4550",
+      "session_start" : "2021-05-15T00:22:38Z",
+      "session_end" : "2021-05-15T01:04:33Z",
+      "kWh_delivered" : "20.964"
+    },
+    {
+      "session_ID" : "2_39_131_30_2021-05-15 01:01:07.404412",
+      "station_ID" : "39",
+      "port_ID" : "2-39-131-30",
+      "session_start" : "2021-05-15T01:01:17Z",
+      "session_end" : "2021-05-15T02:09:11Z",
+      "kWh_delivered" : "7.661"
+    },
+    {
+      "session_ID" : "2_39_81_4550_2021-05-15 03:31:23.770018",
+      "station_ID" : "39",
+      "port_ID" : "2-39-81-4550",
+      "session_start" : "2021-05-15T03:31:32Z",
+      "session_end" : "2021-05-15T04:33:41Z",
+      "kWh_delivered" : "12.136"
+    },
+    {
+      "session_ID" : "2_39_89_25_2021-05-15 14:57:50.367552",
+      "station_ID" : "39",
+      "port_ID" : "2-39-89-25",
+      "session_start" : "2021-05-15T14:58:04Z",
+      "session_end" : "2021-05-15T17:59:08Z",
+      "kWh_delivered" : "4.922"
+    },
+    {
+      "session_ID" : "2_39_81_4550_2021-05-15 16:30:26.561229",
+      "station_ID" : "39",
+      "port_ID" : "2-39-81-4550",
+      "session_start" : "2021-05-15T16:30:31Z",
+      "session_end" : "2021-05-15T16:52:40Z",
+      "kWh_delivered" : "6.342"
+    },
+    {
+      "session_ID" : "2_39_125_21_2021-05-15 18:53:51.262525",
+      "station_ID" : "39",
+      "port_ID" : "2-39-125-21",
+      "session_start" : "2021-05-15T18:54:05Z",
+      "session_end" : "2021-05-15T19:54:57Z",
+      "kWh_delivered" : "3.111"
+    },
+    {
+      "session_ID" : "2_39_79_379_2021-05-15 19:21:51.257279",
+      "station_ID" : "39",
+      "port_ID" : "2-39-79-379",
+      "session_start" : "2021-05-15T19:22:03Z",
+      "session_end" : "2021-05-16T00:52:47Z",
+      "kWh_delivered" : "9.966"
+    },
+    {
+      "session_ID" : "2_39_139_28_2021-05-15 19:37:41.864542",
+      "station_ID" : "39",
+      "port_ID" : "2-39-139-28",
+      "session_start" : "2021-05-15T19:38:03Z",
+      "session_end" : "2021-05-15T20:51:43Z",
+      "kWh_delivered" : "8.59"
+    },
+    {
+      "session_ID" : "2_39_81_4550_2021-05-15 20:40:40.688299",
+      "station_ID" : "39",
+      "port_ID" : "2-39-81-4550",
+      "session_start" : "2021-05-15T20:40:59Z",
+      "session_end" : "2021-05-15T21:44:04Z",
+      "kWh_delivered" : "19.192"
+    },
+    {
+      "session_ID" : "2_39_81_4550_2021-05-15 22:37:25.188750",
+      "station_ID" : "39",
+      "port_ID" : "2-39-81-4550",
+      "session_start" : "2021-05-15T22:37:31Z",
+      "session_end" : "2021-05-15T22:53:20Z",
+      "kWh_delivered" : "11.192"
+    },
+    {
+      "session_ID" : "2_39_91_437_2021-05-15 22:39:46.767512",
+      "station_ID" : "39",
+      "port_ID" : "2-39-91-437",
+      "session_start" : "2021-05-15T22:39:55Z",
+      "session_end" : "2021-05-16T04:21:43Z",
+      "kWh_delivered" : "37.692"
+    },
+    {
+      "session_ID" : "2_39_139_28_2021-05-16 00:36:02.519729",
+      "station_ID" : "39",
+      "port_ID" : "2-39-139-28",
+      "session_start" : "2021-05-16T00:36:12Z",
+      "session_end" : "2021-05-16T02:52:41Z",
+      "kWh_delivered" : "6.733"
+    },
+    {
+      "session_ID" : "2_39_78_361_2021-05-16 04:02:40.915606",
+      "station_ID" : "39",
+      "port_ID" : "2-39-78-361",
+      "session_start" : "2021-05-16T04:02:46Z",
+      "session_end" : "2021-05-16T07:53:59Z",
+      "kWh_delivered" : "8.068"
+    },
+    {
+      "session_ID" : "2_39_81_4550_2021-05-16 14:57:44.243099",
+      "station_ID" : "39",
+      "port_ID" : "2-39-81-4550",
+      "session_start" : "2021-05-16T14:57:57Z",
+      "session_end" : "2021-05-16T16:25:28Z",
+      "kWh_delivered" : "31.238"
+    },
+    {
+      "session_ID" : "2_39_81_4550_2021-05-16 16:55:01.847948",
+      "station_ID" : "39",
+      "port_ID" : "2-39-81-4550",
+      "session_start" : "2021-05-16T16:55:11Z",
+      "session_end" : "2021-05-16T18:02:20Z",
+      "kWh_delivered" : "29.458"
+    },
+    {
+      "session_ID" : "2_39_79_379_2021-05-16 18:32:37.556827",
+      "station_ID" : "39",
+      "port_ID" : "2-39-79-379",
+      "session_start" : "2021-05-16T18:32:47Z",
+      "session_end" : "2021-05-17T01:56:29Z",
+      "kWh_delivered" : "7.539"
+    },
+    {
+      "session_ID" : "2_39_131_30_2021-05-16 19:12:37.538989",
+      "station_ID" : "39",
+      "port_ID" : "2-39-131-30",
+      "session_start" : "2021-05-16T19:12:52Z",
+      "session_end" : "2021-05-17T01:56:23Z",
+      "kWh_delivered" : "6.819"
+    },
+    {
+      "session_ID" : "2_39_81_4550_2021-05-16 20:45:42.696190",
+      "station_ID" : "39",
+      "port_ID" : "2-39-81-4550",
+      "session_start" : "2021-05-16T20:45:59Z",
+      "session_end" : "2021-05-16T21:09:04Z",
+      "kWh_delivered" : "10.88"
+    },
+    {
+      "session_ID" : "2_39_81_4550_2021-05-16 22:23:25.485045",
+      "station_ID" : "39",
+      "port_ID" : "2-39-81-4550",
+      "session_start" : "2021-05-16T22:23:44Z",
+      "session_end" : "2021-05-16T23:34:49Z",
+      "kWh_delivered" : "48.686"
+    },
+    {
+      "session_ID" : "2_39_79_377_2021-05-16 22:35:43.124890",
+      "station_ID" : "39",
+      "port_ID" : "2-39-79-377",
+      "session_start" : "2021-05-16T22:35:57Z",
+      "session_end" : "2021-05-17T03:54:25Z",
+      "kWh_delivered" : "7.637"
+    },
+    {
+      "session_ID" : "2_39_139_28_2021-05-16 23:14:49.019901",
+      "station_ID" : "39",
+      "port_ID" : "2-39-139-28",
+      "session_start" : "2021-05-16T23:14:49Z",
+      "session_end" : "2021-05-17T02:07:49Z",
+      "kWh_delivered" : "6.105"
+    },
+    {
+      "session_ID" : "2_39_81_4550_2021-05-17 00:26:11.191068",
+      "station_ID" : "39",
+      "port_ID" : "2-39-81-4550",
+      "session_start" : "2021-05-17T00:26:17Z",
+      "session_end" : "2021-05-17T02:15:58Z",
+      "kWh_delivered" : "60.144"
+    },
+    {
+      "session_ID" : "2_39_78_365_2021-05-17 02:52:17.007442",
+      "station_ID" : "39",
+      "port_ID" : "2-39-78-365",
+      "session_start" : "2021-05-17T02:53:03Z",
+      "session_end" : "2021-05-17T04:12:19Z",
+      "kWh_delivered" : "2.41"
+    },
+    {
+      "session_ID" : "2_39_81_4550_2021-05-17 08:07:12.876104",
+      "station_ID" : "39",
+      "port_ID" : "2-39-81-4550",
+      "session_start" : "2021-05-17T08:07:18Z",
+      "session_end" : "2021-05-17T09:16:13Z",
+      "kWh_delivered" : "49.314"
+    },
+    {
+      "session_ID" : "2_39_81_4550_2021-05-17 13:43:53.163802",
+      "station_ID" : "39",
+      "port_ID" : "2-39-81-4550",
+      "session_start" : "2021-05-17T13:44:06Z",
+      "session_end" : "2021-05-17T13:58:54Z",
+      "kWh_delivered" : "5.74"
+    },
+    {
+      "session_ID" : "2_39_81_4550_2021-05-17 14:22:48.684792",
+      "station_ID" : "39",
+      "port_ID" : "2-39-81-4550",
+      "session_start" : "2021-05-17T14:23:07Z",
+      "session_end" : "2021-05-17T15:30:29Z",
+      "kWh_delivered" : "50.71"
+    },
+    {
+      "session_ID" : "2_39_138_29_2021-05-17 19:38:41.603197",
+      "station_ID" : "39",
+      "port_ID" : "2-39-138-29",
+      "session_start" : "2021-05-17T19:38:50Z",
+      "session_end" : "2021-05-17T23:36:33Z",
+      "kWh_delivered" : "6.422"
+    },
+    {
+      "session_ID" : "2_39_79_378_2021-05-17 21:25:30.667840",
+      "station_ID" : "39",
+      "port_ID" : "2-39-79-378",
+      "session_start" : "2021-05-17T21:25:45Z",
+      "session_end" : "2021-05-18T01:53:50Z",
+      "kWh_delivered" : "8.743"
+    },
+    {
+      "session_ID" : "2_39_139_28_2021-05-17 22:21:02.449454",
+      "station_ID" : "39",
+      "port_ID" : "2-39-139-28",
+      "session_start" : "2021-05-17T22:21:13Z",
+      "session_end" : "2021-05-18T06:33:20Z",
+      "kWh_delivered" : "15.796"
+    },
+    {
+      "session_ID" : "2_39_81_4550_2021-05-17 22:32:30.144373",
+      "station_ID" : "39",
+      "port_ID" : "2-39-81-4550",
+      "session_start" : "2021-05-17T22:32:48Z",
+      "session_end" : "2021-05-17T23:21:02Z",
+      "kWh_delivered" : "11.656"
+    },
+    {
+      "session_ID" : "2_39_81_4550_2021-05-17 23:29:23.576977",
+      "station_ID" : "39",
+      "port_ID" : "2-39-81-4550",
+      "session_start" : "2021-05-17T23:29:33Z",
+      "session_end" : "2021-05-18T00:16:25Z",
+      "kWh_delivered" : "32.78"
+    },
+    {
+      "session_ID" : "2_39_81_4550_2021-05-18 00:17:14.706411",
+      "station_ID" : "39",
+      "port_ID" : "2-39-81-4550",
+      "session_start" : "2021-05-18T00:17:21Z",
+      "session_end" : "2021-05-18T00:49:32Z",
+      "kWh_delivered" : "14.222"
+    },
+    {
+      "session_ID" : "2_39_81_4550_2021-05-18 01:36:51.920515",
+      "station_ID" : "39",
+      "port_ID" : "2-39-81-4550",
+      "session_start" : "2021-05-18T01:37:06Z",
+      "session_end" : "2021-05-18T02:34:09Z",
+      "kWh_delivered" : "5.102"
+    },
+    {
+      "session_ID" : "2_39_79_380_2021-05-18 15:08:56.497531",
+      "station_ID" : "39",
+      "port_ID" : "2-39-79-380",
+      "session_start" : "2021-05-18T15:09:08Z",
+      "session_end" : "2021-05-19T01:19:05Z",
+      "kWh_delivered" : "37.645"
+    },
+    {
+      "session_ID" : "2_39_81_4550_2021-05-18 16:20:18.384978",
+      "station_ID" : "39",
+      "port_ID" : "2-39-81-4550",
+      "session_start" : "2021-05-18T16:20:22Z",
+      "session_end" : "2021-05-18T16:58:27Z",
+      "kWh_delivered" : "19.136"
+    },
+    {
+      "session_ID" : "2_39_79_379_2021-05-18 17:48:43.632927",
+      "station_ID" : "39",
+      "port_ID" : "2-39-79-379",
+      "session_start" : "2021-05-18T17:48:57Z",
+      "session_end" : "2021-05-19T01:07:15Z",
+      "kWh_delivered" : "9.807"
+    },
+    {
+      "session_ID" : "2_39_89_25_2021-05-18 21:05:09.233732",
+      "station_ID" : "39",
+      "port_ID" : "2-39-89-25",
+      "session_start" : "2021-05-18T21:05:10Z",
+      "session_end" : "2021-05-18T21:54:26Z",
+      "kWh_delivered" : "1.334"
+    },
+    {
+      "session_ID" : "2_39_125_21_2021-05-18 21:11:10.116407",
+      "station_ID" : "39",
+      "port_ID" : "2-39-125-21",
+      "session_start" : "2021-05-18T21:11:17Z",
+      "session_end" : "2021-05-18T22:40:52Z",
+      "kWh_delivered" : "4.178"
+    },
+    {
+      "session_ID" : "2_39_81_4550_2021-05-18 21:14:17.247390",
+      "station_ID" : "39",
+      "port_ID" : "2-39-81-4550",
+      "session_start" : "2021-05-18T21:14:28Z",
+      "session_end" : "2021-05-18T22:11:40Z",
+      "kWh_delivered" : "19.13"
+    },
+    {
+      "session_ID" : "2_39_79_377_2021-05-18 22:48:54.148121",
+      "station_ID" : "39",
+      "port_ID" : "2-39-79-377",
+      "session_start" : "2021-05-18T22:48:54Z",
+      "session_end" : "2021-05-19T00:11:47Z",
+      "kWh_delivered" : "0.953"
+    },
+    {
+      "session_ID" : "2_39_81_4550_2021-05-19 00:27:56.290578",
+      "station_ID" : "39",
+      "port_ID" : "2-39-81-4550",
+      "session_start" : "2021-05-19T00:28:13Z",
+      "session_end" : "2021-05-19T02:24:43Z",
+      "kWh_delivered" : "9.584"
+    },
+    {
+      "session_ID" : "2_39_126_20_2021-05-19 01:37:20.821195",
+      "station_ID" : "39",
+      "port_ID" : "2-39-126-20",
+      "session_start" : "2021-05-19T01:37:39Z",
+      "session_end" : "2021-05-19T03:41:42Z",
+      "kWh_delivered" : "8.977"
+    },
+    {
+      "session_ID" : "2_39_81_4550_2021-05-19 02:25:15.265104",
+      "station_ID" : "39",
+      "port_ID" : "2-39-81-4550",
+      "session_start" : "2021-05-19T02:25:20Z",
+      "session_end" : "2021-05-19T03:02:48Z",
+      "kWh_delivered" : "20.052"
+    },
+    {
+      "session_ID" : "2_39_131_30_2021-05-19 15:03:37.043849",
+      "station_ID" : "39",
+      "port_ID" : "2-39-131-30",
+      "session_start" : "2021-05-19T15:03:44Z",
+      "session_end" : "2021-05-19T19:41:14Z",
+      "kWh_delivered" : "6.9"
+    },
+    {
+      "session_ID" : "2_39_129_17_2021-05-19 15:04:36.614337",
+      "station_ID" : "39",
+      "port_ID" : "2-39-129-17",
+      "session_start" : "2021-05-19T15:04:37Z",
+      "session_end" : "2021-05-19T17:17:57Z",
+      "kWh_delivered" : "9.917"
+    },
+    {
+      "session_ID" : "2_39_127_19_2021-05-19 17:42:54.063418",
+      "station_ID" : "39",
+      "port_ID" : "2-39-127-19",
+      "session_start" : "2021-05-19T17:43:00Z",
+      "session_end" : "2021-05-19T19:16:25Z",
+      "kWh_delivered" : "8.57"
+    },
+    {
+      "session_ID" : "2_39_139_28_2021-05-19 18:12:23.264409",
+      "station_ID" : "39",
+      "port_ID" : "2-39-139-28",
+      "session_start" : "2021-05-19T18:12:29Z",
+      "session_end" : "2021-05-20T02:10:52Z",
+      "kWh_delivered" : "4.403"
+    },
+    {
+      "session_ID" : "2_39_125_21_2021-05-19 18:44:51.709275",
+      "station_ID" : "39",
+      "port_ID" : "2-39-125-21",
+      "session_start" : "2021-05-19T18:45:06Z",
+      "session_end" : "2021-05-19T19:57:40Z",
+      "kWh_delivered" : "2.364"
+    },
+    {
+      "session_ID" : "2_39_82_385_2021-05-19 18:47:00.896394",
+      "station_ID" : "39",
+      "port_ID" : "2-39-82-385",
+      "session_start" : "2021-05-19T18:47:01Z",
+      "session_end" : "2021-05-19T19:32:40Z",
+      "kWh_delivered" : "0.806"
+    },
+    {
+      "session_ID" : "2_39_79_380_2021-05-19 19:30:49.072258",
+      "station_ID" : "39",
+      "port_ID" : "2-39-79-380",
+      "session_start" : "2021-05-19T19:31:38Z",
+      "session_end" : "2021-05-19T20:58:12Z",
+      "kWh_delivered" : "5.426"
+    },
+    {
+      "session_ID" : "2_39_91_437_2021-05-19 19:58:19.267411",
+      "station_ID" : "39",
+      "port_ID" : "2-39-91-437",
+      "session_start" : "2021-05-19T19:58:30Z",
+      "session_end" : "2021-05-19T22:10:43Z",
+      "kWh_delivered" : "14.217"
+    },
+    {
+      "session_ID" : "2_39_81_4550_2021-05-19 20:01:40.163921",
+      "station_ID" : "39",
+      "port_ID" : "2-39-81-4550",
+      "session_start" : "2021-05-19T20:01:47Z",
+      "session_end" : "2021-05-19T20:16:25Z",
+      "kWh_delivered" : "11.044"
+    },
+    {
+      "session_ID" : "2_39_78_365_2021-05-19 21:18:23.286847",
+      "station_ID" : "39",
+      "port_ID" : "2-39-78-365",
+      "session_start" : "2021-05-19T21:18:45Z",
+      "session_end" : "2021-05-20T04:39:25Z",
+      "kWh_delivered" : "2.137"
+    },
+    {
+      "session_ID" : "2_39_131_30_2021-05-19 21:35:20.174960",
+      "station_ID" : "39",
+      "port_ID" : "2-39-131-30",
+      "session_start" : "2021-05-19T21:35:27Z",
+      "session_end" : "2021-05-20T06:08:48Z",
+      "kWh_delivered" : "15.758"
+    },
+    {
+      "session_ID" : "2_39_81_4550_2021-05-20 00:47:10.591684",
+      "station_ID" : "39",
+      "port_ID" : "2-39-81-4550",
+      "session_start" : "2021-05-20T00:47:18Z",
+      "session_end" : "2021-05-20T02:05:40Z",
+      "kWh_delivered" : "57.648"
+    },
+    {
+      "session_ID" : "2_39_91_437_2021-05-20 01:44:35.899210",
+      "station_ID" : "39",
+      "port_ID" : "2-39-91-437",
+      "session_start" : "2021-05-20T01:45:01Z",
+      "session_end" : "2021-05-20T04:27:07Z",
+      "kWh_delivered" : "11.648"
+    },
+    {
+      "session_ID" : "2_39_81_4550_2021-05-20 03:23:31.082353",
+      "station_ID" : "39",
+      "port_ID" : "2-39-81-4550",
+      "session_start" : "2021-05-20T03:23:48Z",
+      "session_end" : "2021-05-20T04:05:16Z",
+      "kWh_delivered" : "28.338"
+    },
+    {
+      "session_ID" : "2_39_79_383_2021-05-20 04:21:53.543524",
+      "station_ID" : "39",
+      "port_ID" : "2-39-79-383",
+      "session_start" : "2021-05-20T04:21:58Z",
+      "session_end" : "2021-05-20T08:57:54Z",
+      "kWh_delivered" : "28.409"
+    },
+    {
+      "session_ID" : "2_39_79_379_2021-05-20 17:37:49.386183",
+      "station_ID" : "39",
+      "port_ID" : "2-39-79-379",
+      "session_start" : "2021-05-20T17:37:55Z",
+      "session_end" : "2021-05-21T01:20:06Z",
+      "kWh_delivered" : "9.825"
+    },
+    {
+      "session_ID" : "2_39_128_18_2021-05-20 17:43:19.072380",
+      "station_ID" : "39",
+      "port_ID" : "2-39-128-18",
+      "session_start" : "2021-05-20T17:43:19Z",
+      "session_end" : "2021-05-20T19:29:09Z",
+      "kWh_delivered" : "0.883"
+    },
+    {
+      "session_ID" : "2_39_131_30_2021-05-20 17:50:27.141970",
+      "station_ID" : "39",
+      "port_ID" : "2-39-131-30",
+      "session_start" : "2021-05-20T17:50:30Z",
+      "session_end" : "2021-05-20T18:53:46Z",
+      "kWh_delivered" : "6.615"
+    },
+    {
+      "session_ID" : "2_39_125_21_2021-05-20 21:13:05.542386",
+      "station_ID" : "39",
+      "port_ID" : "2-39-125-21",
+      "session_start" : "2021-05-20T21:13:11Z",
+      "session_end" : "2021-05-20T22:42:08Z",
+      "kWh_delivered" : "2"
+    },
+    {
+      "session_ID" : "2_39_78_365_2021-05-20 22:24:57.132294",
+      "station_ID" : "39",
+      "port_ID" : "2-39-78-365",
+      "session_start" : "2021-05-20T22:25:20Z",
+      "session_end" : "2021-05-21T06:51:25Z",
+      "kWh_delivered" : "2.369"
+    },
+    {
+      "session_ID" : "2_39_139_28_2021-05-20 22:33:19.173564",
+      "station_ID" : "39",
+      "port_ID" : "2-39-139-28",
+      "session_start" : "2021-05-20T22:33:25Z",
+      "session_end" : "2021-05-21T02:37:32Z",
+      "kWh_delivered" : "13.87"
+    },
+    {
+      "session_ID" : "2_39_131_30_2021-05-20 23:44:14.267965",
+      "station_ID" : "39",
+      "port_ID" : "2-39-131-30",
+      "session_start" : "2021-05-20T23:44:14Z",
+      "session_end" : "2021-05-21T02:11:53Z",
+      "kWh_delivered" : "0.921"
+    },
+    {
+      "session_ID" : "2_39_81_4550_2021-05-21 00:51:55.577274",
+      "station_ID" : "39",
+      "port_ID" : "2-39-81-4550",
+      "session_start" : "2021-05-21T00:52:07Z",
+      "session_end" : "2021-05-21T03:56:38Z",
+      "kWh_delivered" : "23.692"
+    },
+    {
+      "session_ID" : "2_39_79_383_2021-05-21 04:32:43.183349",
+      "station_ID" : "39",
+      "port_ID" : "2-39-79-383",
+      "session_start" : "2021-05-21T04:32:46Z",
+      "session_end" : "2021-05-21T06:40:54Z",
+      "kWh_delivered" : "11.271"
+    },
+    {
+      "session_ID" : "2_39_81_4550_2021-05-21 04:50:23.640122",
+      "station_ID" : "39",
+      "port_ID" : "2-39-81-4550",
+      "session_start" : "2021-05-21T04:50:33Z",
+      "session_end" : "2021-05-21T05:47:39Z",
+      "kWh_delivered" : "12.982"
+    },
+    {
+      "session_ID" : "2_39_81_4550_2021-05-21 13:39:29.378976",
+      "station_ID" : "39",
+      "port_ID" : "2-39-81-4550",
+      "session_start" : "2021-05-21T13:39:34Z",
+      "session_end" : "2021-05-21T14:37:57Z",
+      "kWh_delivered" : "37.55"
+    },
+    {
+      "session_ID" : "2_39_139_28_2021-05-21 15:30:12.695924",
+      "station_ID" : "39",
+      "port_ID" : "2-39-139-28",
+      "session_start" : "2021-05-21T15:30:22Z",
+      "session_end" : "2021-05-22T00:25:58Z",
+      "kWh_delivered" : "6.333"
+    },
+    {
+      "session_ID" : "2_39_79_380_2021-05-21 16:28:41.729082",
+      "station_ID" : "39",
+      "port_ID" : "2-39-79-380",
+      "session_start" : "2021-05-21T16:28:58Z",
+      "session_end" : "2021-05-21T22:05:38Z",
+      "kWh_delivered" : "6.399"
+    },
+    {
+      "session_ID" : "2_39_131_30_2021-05-21 17:03:36.483770",
+      "station_ID" : "39",
+      "port_ID" : "2-39-131-30",
+      "session_start" : "2021-05-21T17:03:44Z",
+      "session_end" : "2021-05-22T03:36:19Z",
+      "kWh_delivered" : "14.61"
+    },
+    {
+      "session_ID" : "2_39_128_18_2021-05-21 18:05:03.251988",
+      "station_ID" : "39",
+      "port_ID" : "2-39-128-18",
+      "session_start" : "2021-05-21T18:05:12Z",
+      "session_end" : "2021-05-21T19:22:58Z",
+      "kWh_delivered" : "3.601"
+    },
+    {
+      "session_ID" : "2_39_81_4550_2021-05-21 18:16:10.691547",
+      "station_ID" : "39",
+      "port_ID" : "2-39-81-4550",
+      "session_start" : "2021-05-21T18:16:45Z",
+      "session_end" : "2021-05-21T18:46:49Z",
+      "kWh_delivered" : "17.514"
+    },
+    {
+      "session_ID" : "2_39_81_4550_2021-05-21 19:05:02.138337",
+      "station_ID" : "39",
+      "port_ID" : "2-39-81-4550",
+      "session_start" : "2021-05-21T19:05:10Z",
+      "session_end" : "2021-05-21T20:21:41Z",
+      "kWh_delivered" : "26.048"
+    },
+    {
+      "session_ID" : "2_39_78_365_2021-05-21 21:02:31.211457",
+      "station_ID" : "39",
+      "port_ID" : "2-39-78-365",
+      "session_start" : "2021-05-21T21:02:53Z",
+      "session_end" : "2021-05-22T06:53:15Z",
+      "kWh_delivered" : "2.393"
+    },
+    {
+      "session_ID" : "2_39_81_4550_2021-05-21 21:03:00.954297",
+      "station_ID" : "39",
+      "port_ID" : "2-39-81-4550",
+      "session_start" : "2021-05-21T21:03:11Z",
+      "session_end" : "2021-05-21T21:12:31Z",
+      "kWh_delivered" : "5.696"
+    },
+    {
+      "session_ID" : "2_39_130_31_2021-05-21 21:24:48.898876",
+      "station_ID" : "39",
+      "port_ID" : "2-39-130-31",
+      "session_start" : "2021-05-21T21:24:54Z",
+      "session_end" : "2021-05-22T00:05:25Z",
+      "kWh_delivered" : "6.328"
+    },
+    {
+      "session_ID" : "2_39_81_4550_2021-05-21 22:40:26.455171",
+      "station_ID" : "39",
+      "port_ID" : "2-39-81-4550",
+      "session_start" : "2021-05-21T22:40:44Z",
+      "session_end" : "2021-05-21T22:54:58Z",
+      "kWh_delivered" : "8.756"
+    },
+    {
+      "session_ID" : "2_39_81_4550_2021-05-21 23:14:06.467559",
+      "station_ID" : "39",
+      "port_ID" : "2-39-81-4550",
+      "session_start" : "2021-05-21T23:14:12Z",
+      "session_end" : "2021-05-21T23:57:41Z",
+      "kWh_delivered" : "26.906"
+    },
+    {
+      "session_ID" : "2_39_81_4550_2021-05-22 00:39:59.296758",
+      "station_ID" : "39",
+      "port_ID" : "2-39-81-4550",
+      "session_start" : "2021-05-22T00:40:14Z",
+      "session_end" : "2021-05-22T01:06:00Z",
+      "kWh_delivered" : "10.05"
+    },
+    {
+      "session_ID" : "2_39_81_4550_2021-05-22 01:15:07.051924",
+      "station_ID" : "39",
+      "port_ID" : "2-39-81-4550",
+      "session_start" : "2021-05-22T01:15:18Z",
+      "session_end" : "2021-05-22T01:42:19Z",
+      "kWh_delivered" : "18.952"
+    },
+    {
+      "session_ID" : "2_39_139_28_2021-05-22 01:27:59.600456",
+      "station_ID" : "39",
+      "port_ID" : "2-39-139-28",
+      "session_start" : "2021-05-22T01:28:06Z",
+      "session_end" : "2021-05-22T02:24:04Z",
+      "kWh_delivered" : "3.084"
+    },
+    {
+      "session_ID" : "2_39_91_437_2021-05-22 01:47:26.854060",
+      "station_ID" : "39",
+      "port_ID" : "2-39-91-437",
+      "session_start" : "2021-05-22T01:47:38Z",
+      "session_end" : "2021-05-22T17:32:45Z",
+      "kWh_delivered" : "20.501"
+    },
+    {
+      "session_ID" : "2_39_81_4550_2021-05-22 02:46:31.595437",
+      "station_ID" : "39",
+      "port_ID" : "2-39-81-4550",
+      "session_start" : "2021-05-22T02:46:39Z",
+      "session_end" : "2021-05-22T03:35:47Z",
+      "kWh_delivered" : "35.188"
+    },
+    {
+      "session_ID" : "2_39_131_30_2021-05-22 14:48:19.997350",
+      "station_ID" : "39",
+      "port_ID" : "2-39-131-30",
+      "session_start" : "2021-05-22T14:48:26Z",
+      "session_end" : "2021-05-22T16:11:12Z",
+      "kWh_delivered" : "7.323"
+    },
+    {
+      "session_ID" : "2_39_139_28_2021-05-22 17:05:46.544913",
+      "station_ID" : "39",
+      "port_ID" : "2-39-139-28",
+      "session_start" : "2021-05-22T17:06:00Z",
+      "session_end" : "2021-05-22T17:43:41Z",
+      "kWh_delivered" : "4.358"
+    },
+    {
+      "session_ID" : "2_39_81_4550_2021-05-22 18:32:32.000473",
+      "station_ID" : "39",
+      "port_ID" : "2-39-81-4550",
+      "session_start" : "2021-05-22T18:32:40Z",
+      "session_end" : "2021-05-22T19:11:41Z",
+      "kWh_delivered" : "7.688"
+    },
+    {
+      "session_ID" : "2_39_138_29_2021-05-22 18:51:41.954790",
+      "station_ID" : "39",
+      "port_ID" : "2-39-138-29",
+      "session_start" : "2021-05-22T18:51:55Z",
+      "session_end" : "2021-05-22T20:12:17Z",
+      "kWh_delivered" : "9.605"
+    },
+    {
+      "session_ID" : "2_39_81_4550_2021-05-22 20:38:21.536686",
+      "station_ID" : "39",
+      "port_ID" : "2-39-81-4550",
+      "session_start" : "2021-05-22T20:38:36Z",
+      "session_end" : "2021-05-22T20:54:37Z",
+      "kWh_delivered" : "10.928"
+    },
+    {
+      "session_ID" : "2_39_131_30_2021-05-22 23:33:53.271887",
+      "station_ID" : "39",
+      "port_ID" : "2-39-131-30",
+      "session_start" : "2021-05-22T23:34:01Z",
+      "session_end" : "2021-05-23T04:04:04Z",
+      "kWh_delivered" : "13.747"
+    },
+    {
+      "session_ID" : "2_39_78_365_2021-05-23 00:23:42.177261",
+      "station_ID" : "39",
+      "port_ID" : "2-39-78-365",
+      "session_start" : "2021-05-23T00:24:02Z",
+      "session_end" : "2021-05-23T06:04:25Z",
+      "kWh_delivered" : "2.364"
+    },
+    {
+      "session_ID" : "2_39_81_4550_2021-05-23 03:13:05.888655",
+      "station_ID" : "39",
+      "port_ID" : "2-39-81-4550",
+      "session_start" : "2021-05-23T03:13:11Z",
+      "session_end" : "2021-05-23T03:53:05Z",
+      "kWh_delivered" : "12.848"
+    },
+    {
+      "session_ID" : "2_39_81_4550_2021-05-23 16:18:20.919849",
+      "station_ID" : "39",
+      "port_ID" : "2-39-81-4550",
+      "session_start" : "2021-05-23T16:18:33Z",
+      "session_end" : "2021-05-23T16:52:13Z",
+      "kWh_delivered" : "23.188"
+    },
+    {
+      "session_ID" : "2_39_131_30_2021-05-23 19:08:46.665113",
+      "station_ID" : "39",
+      "port_ID" : "2-39-131-30",
+      "session_start" : "2021-05-23T19:08:47Z",
+      "session_end" : "2021-05-23T20:07:46Z",
+      "kWh_delivered" : "3.458"
+    },
+    {
+      "session_ID" : "2_39_139_28_2021-05-23 19:32:05.739546",
+      "station_ID" : "39",
+      "port_ID" : "2-39-139-28",
+      "session_start" : "2021-05-23T19:32:26Z",
+      "session_end" : "2021-05-23T20:42:57Z",
+      "kWh_delivered" : "6.405"
+    },
+    {
+      "session_ID" : "2_39_81_4550_2021-05-23 19:54:14.038658",
+      "station_ID" : "39",
+      "port_ID" : "2-39-81-4550",
+      "session_start" : "2021-05-23T19:54:15Z",
+      "session_end" : "2021-05-23T21:13:50Z",
+      "kWh_delivered" : "48.774"
+    },
+    {
+      "session_ID" : "2_39_78_365_2021-05-23 23:03:28.391324",
+      "station_ID" : "39",
+      "port_ID" : "2-39-78-365",
+      "session_start" : "2021-05-23T23:03:49Z",
+      "session_end" : "2021-05-24T04:14:56Z",
+      "kWh_delivered" : "2.356"
+    },
+    {
+      "session_ID" : "2_39_130_31_2021-05-24 00:40:36.200173",
+      "station_ID" : "39",
+      "port_ID" : "2-39-130-31",
+      "session_start" : "2021-05-24T00:40:42Z",
+      "session_end" : "2021-05-24T02:02:47Z",
+      "kWh_delivered" : "4.781"
+    },
+    {
+      "session_ID" : "2_39_139_28_2021-05-24 01:39:41.030654",
+      "station_ID" : "39",
+      "port_ID" : "2-39-139-28",
+      "session_start" : "2021-05-24T01:39:54Z",
+      "session_end" : "2021-05-24T02:14:11Z",
+      "kWh_delivered" : "1.259"
+    },
+    {
+      "session_ID" : "2_39_131_30_2021-05-24 02:21:58.329120",
+      "station_ID" : "39",
+      "port_ID" : "2-39-131-30",
+      "session_start" : "2021-05-24T02:22:08Z",
+      "session_end" : "2021-05-24T05:43:46Z",
+      "kWh_delivered" : "13.807"
+    },
+    {
+      "session_ID" : "2_39_81_4550_2021-05-24 04:00:46.954871",
+      "station_ID" : "39",
+      "port_ID" : "2-39-81-4550",
+      "session_start" : "2021-05-24T04:00:52Z",
+      "session_end" : "2021-05-24T04:19:31Z",
+      "kWh_delivered" : "5.506"
+    },
+    {
+      "session_ID" : "2_39_81_4550_2021-05-24 09:35:57.218539",
+      "station_ID" : "39",
+      "port_ID" : "2-39-81-4550",
+      "session_start" : "2021-05-24T09:36:07Z",
+      "session_end" : "2021-05-24T10:06:58Z",
+      "kWh_delivered" : "10.274"
+    },
+    {
+      "session_ID" : "2_39_79_378_2021-05-24 14:09:02.463840",
+      "station_ID" : "39",
+      "port_ID" : "2-39-79-378",
+      "session_start" : "2021-05-24T14:09:13Z",
+      "session_end" : "2021-05-24T23:51:08Z",
+      "kWh_delivered" : "29.226"
+    },
+    {
+      "session_ID" : "2_39_125_21_2021-05-24 14:42:06.246821",
+      "station_ID" : "39",
+      "port_ID" : "2-39-125-21",
+      "session_start" : "2021-05-24T14:42:21Z",
+      "session_end" : "2021-05-24T15:42:39Z",
+      "kWh_delivered" : "0.939"
+    },
+    {
+      "session_ID" : "2_39_79_380_2021-05-24 15:32:33.899240",
+      "station_ID" : "39",
+      "port_ID" : "2-39-79-380",
+      "session_start" : "2021-05-24T15:32:48Z",
+      "session_end" : "2021-05-24T22:09:17Z",
+      "kWh_delivered" : "5.643"
+    },
+    {
+      "session_ID" : "2_39_139_28_2021-05-24 17:04:16.816985",
+      "station_ID" : "39",
+      "port_ID" : "2-39-139-28",
+      "session_start" : "2021-05-24T17:04:23Z",
+      "session_end" : "2021-05-25T01:15:28Z",
+      "kWh_delivered" : "6.107"
+    },
+    {
+      "session_ID" : "2_39_129_17_2021-05-24 18:06:52.512980",
+      "station_ID" : "39",
+      "port_ID" : "2-39-129-17",
+      "session_start" : "2021-05-24T18:06:53Z",
+      "session_end" : "2021-05-24T18:57:03Z",
+      "kWh_delivered" : "2.314"
+    },
+    {
+      "session_ID" : "2_39_81_4550_2021-05-24 18:47:19.827139",
+      "station_ID" : "39",
+      "port_ID" : "2-39-81-4550",
+      "session_start" : "2021-05-24T18:47:34Z",
+      "session_end" : "2021-05-24T19:06:23Z",
+      "kWh_delivered" : "13.346"
+    },
+    {
+      "session_ID" : "2_39_78_365_2021-05-24 19:28:53.070300",
+      "station_ID" : "39",
+      "port_ID" : "2-39-78-365",
+      "session_start" : "2021-05-24T19:28:53Z",
+      "session_end" : "2021-05-24T20:00:37Z",
+      "kWh_delivered" : "0.847"
+    },
+    {
+      "session_ID" : "2_39_78_365_2021-05-24 20:00:42.366592",
+      "station_ID" : "39",
+      "port_ID" : "2-39-78-365",
+      "session_start" : "2021-05-24T20:00:42Z",
+      "session_end" : "2021-05-24T20:32:59Z",
+      "kWh_delivered" : "0.836"
+    },
+    {
+      "session_ID" : "2_39_91_437_2021-05-24 20:33:58.359519",
+      "station_ID" : "39",
+      "port_ID" : "2-39-91-437",
+      "session_start" : "2021-05-24T20:33:58Z",
+      "session_end" : "2021-05-24T21:12:00Z",
+      "kWh_delivered" : "0.835"
+    },
+    {
+      "session_ID" : "2_39_130_31_2021-05-24 20:55:07.871442",
+      "station_ID" : "39",
+      "port_ID" : "2-39-130-31",
+      "session_start" : "2021-05-24T20:55:18Z",
+      "session_end" : "2021-05-25T00:08:09Z",
+      "kWh_delivered" : "5.957"
+    },
+    {
+      "session_ID" : "2_39_81_4550_2021-05-24 21:08:45.203385",
+      "station_ID" : "39",
+      "port_ID" : "2-39-81-4550",
+      "session_start" : "2021-05-24T21:09:12Z",
+      "session_end" : "2021-05-24T21:29:57Z",
+      "kWh_delivered" : "14.83"
+    },
+    {
+      "session_ID" : "2_39_91_437_2021-05-24 21:12:03.715316",
+      "station_ID" : "39",
+      "port_ID" : "2-39-91-437",
+      "session_start" : "2021-05-24T21:12:04Z",
+      "session_end" : "2021-05-24T21:43:27Z",
+      "kWh_delivered" : "0.856"
+    },
+    {
+      "session_ID" : "2_39_81_4550_2021-05-24 21:32:14.201026",
+      "station_ID" : "39",
+      "port_ID" : "2-39-81-4550",
+      "session_start" : "2021-05-24T21:32:34Z",
+      "session_end" : "2021-05-24T22:26:09Z",
+      "kWh_delivered" : "13.634"
+    },
+    {
+      "session_ID" : "2_39_81_4550_2021-05-24 22:49:32.066162",
+      "station_ID" : "39",
+      "port_ID" : "2-39-81-4550",
+      "session_start" : "2021-05-24T22:49:45Z",
+      "session_end" : "2021-05-24T23:41:33Z",
+      "kWh_delivered" : "5.09"
+    },
+    {
+      "session_ID" : "2_39_129_17_2021-05-24 23:01:16.035471",
+      "station_ID" : "39",
+      "port_ID" : "2-39-129-17",
+      "session_start" : "2021-05-24T23:01:23Z",
+      "session_end" : "2021-05-25T03:01:54Z",
+      "kWh_delivered" : "14.667"
+    },
+    {
+      "session_ID" : "2_39_126_20_2021-05-25 01:30:35.424922",
+      "station_ID" : "39",
+      "port_ID" : "2-39-126-20",
+      "session_start" : "2021-05-25T01:30:54Z",
+      "session_end" : "2021-05-25T02:43:01Z",
+      "kWh_delivered" : "3.455"
+    },
+    {
+      "session_ID" : "2_39_81_4550_2021-05-25 04:08:44.057696",
+      "station_ID" : "39",
+      "port_ID" : "2-39-81-4550",
+      "session_start" : "2021-05-25T04:08:59Z",
+      "session_end" : "2021-05-25T05:23:17Z",
+      "kWh_delivered" : "41.188"
+    },
+    {
+      "session_ID" : "2_39_81_4550_2021-05-25 13:26:18.492172",
+      "station_ID" : "39",
+      "port_ID" : "2-39-81-4550",
+      "session_start" : "2021-05-25T13:26:38Z",
+      "session_end" : "2021-05-25T14:07:41Z",
+      "kWh_delivered" : "23.452"
+    },
+    {
+      "session_ID" : "2_39_139_28_2021-05-25 15:00:34.071865",
+      "station_ID" : "39",
+      "port_ID" : "2-39-139-28",
+      "session_start" : "2021-05-25T15:00:46Z",
+      "session_end" : "2021-05-25T20:04:02Z",
+      "kWh_delivered" : "4.838"
+    },
+    {
+      "session_ID" : "2_39_129_17_2021-05-25 15:11:08.757483",
+      "station_ID" : "39",
+      "port_ID" : "2-39-129-17",
+      "session_start" : "2021-05-25T15:11:16Z",
+      "session_end" : "2021-05-25T19:53:49Z",
+      "kWh_delivered" : "7.361"
+    },
+    {
+      "session_ID" : "2_39_79_380_2021-05-25 15:20:09.954055",
+      "station_ID" : "39",
+      "port_ID" : "2-39-79-380",
+      "session_start" : "2021-05-25T15:20:22Z",
+      "session_end" : "2021-05-26T00:14:27Z",
+      "kWh_delivered" : "48.774"
+    },
+    {
+      "session_ID" : "2_39_79_379_2021-05-25 15:32:52.832481",
+      "station_ID" : "39",
+      "port_ID" : "2-39-79-379",
+      "session_start" : "2021-05-25T15:33:00Z",
+      "session_end" : "2021-05-26T01:13:51Z",
+      "kWh_delivered" : "9.516"
+    },
+    {
+      "session_ID" : "2_39_127_19_2021-05-25 16:58:01.214850",
+      "station_ID" : "39",
+      "port_ID" : "2-39-127-19",
+      "session_start" : "2021-05-25T16:58:13Z",
+      "session_end" : "2021-05-25T23:24:34Z",
+      "kWh_delivered" : "43.423"
+    },
+    {
+      "session_ID" : "2_39_81_4550_2021-05-25 17:09:43.260716",
+      "station_ID" : "39",
+      "port_ID" : "2-39-81-4550",
+      "session_start" : "2021-05-25T17:09:56Z",
+      "session_end" : "2021-05-25T18:04:33Z",
+      "kWh_delivered" : "28.282"
+    },
+    {
+      "session_ID" : "2_39_131_30_2021-05-25 18:17:23.513518",
+      "station_ID" : "39",
+      "port_ID" : "2-39-131-30",
+      "session_start" : "2021-05-25T18:17:30Z",
+      "session_end" : "2021-05-26T04:40:55Z",
+      "kWh_delivered" : "15.628"
+    },
+    {
+      "session_ID" : "2_39_81_4550_2021-05-25 19:55:01.118804",
+      "station_ID" : "39",
+      "port_ID" : "2-39-81-4550",
+      "session_start" : "2021-05-25T19:55:13Z",
+      "session_end" : "2021-05-25T20:14:13Z",
+      "kWh_delivered" : "13.7"
+    },
+    {
+      "session_ID" : "2_39_139_28_2021-05-25 20:28:28.248147",
+      "station_ID" : "39",
+      "port_ID" : "2-39-139-28",
+      "session_start" : "2021-05-25T20:28:38Z",
+      "session_end" : "2021-05-26T00:27:12Z",
+      "kWh_delivered" : "0.862"
+    },
+    {
+      "session_ID" : "2_39_81_4550_2021-05-25 20:30:17.056593",
+      "station_ID" : "39",
+      "port_ID" : "2-39-81-4550",
+      "session_start" : "2021-05-25T20:30:25Z",
+      "session_end" : "2021-05-25T20:38:25Z",
+      "kWh_delivered" : "2.602"
+    },
+    {
+      "session_ID" : "2_39_81_4550_2021-05-25 20:38:37.847182",
+      "station_ID" : "39",
+      "port_ID" : "2-39-81-4550",
+      "session_start" : "2021-05-25T20:38:48Z",
+      "session_end" : "2021-05-25T21:18:58Z",
+      "kWh_delivered" : "14.144"
+    },
+    {
+      "session_ID" : "2_39_138_29_2021-05-25 21:21:33.622385",
+      "station_ID" : "39",
+      "port_ID" : "2-39-138-29",
+      "session_start" : "2021-05-25T21:21:40Z",
+      "session_end" : "2021-05-26T00:08:21Z",
+      "kWh_delivered" : "4.077"
+    },
+    {
+      "session_ID" : "2_39_125_21_2021-05-25 22:12:19.453716",
+      "station_ID" : "39",
+      "port_ID" : "2-39-125-21",
+      "session_start" : "2021-05-25T22:12:31Z",
+      "session_end" : "2021-05-25T23:42:57Z",
+      "kWh_delivered" : "3.428"
+    },
+    {
+      "session_ID" : "2_39_78_365_2021-05-25 22:35:31.753167",
+      "station_ID" : "39",
+      "port_ID" : "2-39-78-365",
+      "session_start" : "2021-05-25T22:35:53Z",
+      "session_end" : "2021-05-26T04:25:32Z",
+      "kWh_delivered" : "2.321"
+    },
+    {
+      "session_ID" : "2_39_81_4550_2021-05-26 00:55:42.922262",
+      "station_ID" : "39",
+      "port_ID" : "2-39-81-4550",
+      "session_start" : "2021-05-26T00:55:55Z",
+      "session_end" : "2021-05-26T01:35:59Z",
+      "kWh_delivered" : "21.018"
+    },
+    {
+      "session_ID" : "2_39_81_4550_2021-05-26 01:55:33.817701",
+      "station_ID" : "39",
+      "port_ID" : "2-39-81-4550",
+      "session_start" : "2021-05-26T01:55:45Z",
+      "session_end" : "2021-05-26T02:55:21Z",
+      "kWh_delivered" : "13.788"
+    },
+    {
+      "session_ID" : "2_39_83_386_2021-05-26 01:57:20.149481",
+      "station_ID" : "39",
+      "port_ID" : "2-39-83-386",
+      "session_start" : "2021-05-26T01:57:20Z",
+      "session_end" : "2021-05-26T03:27:05Z",
+      "kWh_delivered" : "2.508"
+    },
+    {
+      "session_ID" : "2_39_81_4550_2021-05-26 03:41:43.072749",
+      "station_ID" : "39",
+      "port_ID" : "2-39-81-4550",
+      "session_start" : "2021-05-26T03:41:51Z",
+      "session_end" : "2021-05-26T04:20:54Z",
+      "kWh_delivered" : "13.83"
+    },
+    {
+      "session_ID" : "2_39_81_4550_2021-05-26 15:29:29.160677",
+      "station_ID" : "39",
+      "port_ID" : "2-39-81-4550",
+      "session_start" : "2021-05-26T15:29:39Z",
+      "session_end" : "2021-05-26T16:21:21Z",
+      "kWh_delivered" : "18.796"
+    },
+    {
+      "session_ID" : "2_39_79_380_2021-05-26 15:45:01.111799",
+      "station_ID" : "39",
+      "port_ID" : "2-39-79-380",
+      "session_start" : "2021-05-26T15:45:07Z",
+      "session_end" : "2021-05-26T20:58:04Z",
+      "kWh_delivered" : "3.794"
+    },
+    {
+      "session_ID" : "2_39_139_28_2021-05-26 17:42:41.790877",
+      "station_ID" : "39",
+      "port_ID" : "2-39-139-28",
+      "session_start" : "2021-05-26T17:42:51Z",
+      "session_end" : "2021-05-27T00:37:53Z",
+      "kWh_delivered" : "13.223"
+    },
+    {
+      "session_ID" : "2_39_125_21_2021-05-26 18:23:43.696744",
+      "station_ID" : "39",
+      "port_ID" : "2-39-125-21",
+      "session_start" : "2021-05-26T18:23:53Z",
+      "session_end" : "2021-05-26T19:01:39Z",
+      "kWh_delivered" : "1.349"
+    },
+    {
+      "session_ID" : "2_39_138_29_2021-05-26 19:10:03.311159",
+      "station_ID" : "39",
+      "port_ID" : "2-39-138-29",
+      "session_start" : "2021-05-26T19:10:12Z",
+      "session_end" : "2021-05-27T02:02:54Z",
+      "kWh_delivered" : "6.229"
+    },
+    {
+      "session_ID" : "2_39_81_4550_2021-05-26 20:09:22.575972",
+      "station_ID" : "39",
+      "port_ID" : "2-39-81-4550",
+      "session_start" : "2021-05-26T20:09:30Z",
+      "session_end" : "2021-05-26T20:37:18Z",
+      "kWh_delivered" : "9.566"
+    },
+    {
+      "session_ID" : "2_39_78_365_2021-05-26 22:10:46.747812",
+      "station_ID" : "39",
+      "port_ID" : "2-39-78-365",
+      "session_start" : "2021-05-26T22:11:01Z",
+      "session_end" : "2021-05-26T23:51:39Z",
+      "kWh_delivered" : "2.289"
+    },
+    {
+      "session_ID" : "2_39_81_4550_2021-05-26 23:21:36.915213",
+      "station_ID" : "39",
+      "port_ID" : "2-39-81-4550",
+      "session_start" : "2021-05-26T23:21:48Z",
+      "session_end" : "2021-05-27T00:02:58Z",
+      "kWh_delivered" : "18.016"
+    },
+    {
+      "session_ID" : "2_39_81_4550_2021-05-27 00:41:39.566526",
+      "station_ID" : "39",
+      "port_ID" : "2-39-81-4550",
+      "session_start" : "2021-05-27T00:41:51Z",
+      "session_end" : "2021-05-27T01:47:46Z",
+      "kWh_delivered" : "22.752"
+    },
+    {
+      "session_ID" : "2_39_81_4550_2021-05-27 03:38:07.642312",
+      "station_ID" : "39",
+      "port_ID" : "2-39-81-4550",
+      "session_start" : "2021-05-27T03:38:22Z",
+      "session_end" : "2021-05-27T04:10:23Z",
+      "kWh_delivered" : "24.11"
+    },
+    {
+      "session_ID" : "2_39_79_383_2021-05-27 04:53:19.823494",
+      "station_ID" : "39",
+      "port_ID" : "2-39-79-383",
+      "session_start" : "2021-05-27T04:53:20Z",
+      "session_end" : "2021-05-27T07:01:30Z",
+      "kWh_delivered" : "14.639"
+    },
+    {
+      "session_ID" : "2_39_81_4550_2021-05-27 14:14:40.950168",
+      "station_ID" : "39",
+      "port_ID" : "2-39-81-4550",
+      "session_start" : "2021-05-27T14:15:08Z",
+      "session_end" : "2021-05-27T14:20:06Z",
+      "kWh_delivered" : "2.522"
+    },
+    {
+      "session_ID" : "2_39_81_4550_2021-05-27 14:20:13.866063",
+      "station_ID" : "39",
+      "port_ID" : "2-39-81-4550",
+      "session_start" : "2021-05-27T14:20:24Z",
+      "session_end" : "2021-05-27T14:46:30Z",
+      "kWh_delivered" : "18.634"
+    },
+    {
+      "session_ID" : "2_39_81_4550_2021-05-27 15:31:45.019286",
+      "station_ID" : "39",
+      "port_ID" : "2-39-81-4550",
+      "session_start" : "2021-05-27T15:32:00Z",
+      "session_end" : "2021-05-27T16:42:38Z",
+      "kWh_delivered" : "52.512"
+    },
+    {
+      "session_ID" : "2_39_79_379_2021-05-27 17:34:53.354651",
+      "station_ID" : "39",
+      "port_ID" : "2-39-79-379",
+      "session_start" : "2021-05-27T17:35:04Z",
+      "session_end" : "2021-05-28T01:14:10Z",
+      "kWh_delivered" : "10.157"
+    },
+    {
+      "session_ID" : "2_39_81_4550_2021-05-27 17:35:07.550313",
+      "station_ID" : "39",
+      "port_ID" : "2-39-81-4550",
+      "session_start" : "2021-05-27T17:35:43Z",
+      "session_end" : "2021-05-27T18:05:07Z",
+      "kWh_delivered" : "22.32"
+    },
+    {
+      "session_ID" : "2_39_138_29_2021-05-27 19:22:55.744128",
+      "station_ID" : "39",
+      "port_ID" : "2-39-138-29",
+      "session_start" : "2021-05-27T19:23:05Z",
+      "session_end" : "2021-05-27T23:37:46Z",
+      "kWh_delivered" : "6.21"
+    },
+    {
+      "session_ID" : "2_39_131_30_2021-05-27 20:42:33.649551",
+      "station_ID" : "39",
+      "port_ID" : "2-39-131-30",
+      "session_start" : "2021-05-27T20:42:42Z",
+      "session_end" : "2021-05-28T03:34:17Z",
+      "kWh_delivered" : "16.179"
+    },
+    {
+      "session_ID" : "2_39_129_17_2021-05-27 21:33:16.865316",
+      "station_ID" : "39",
+      "port_ID" : "2-39-129-17",
+      "session_start" : "2021-05-27T21:33:19Z",
+      "session_end" : "2021-05-27T22:27:46Z",
+      "kWh_delivered" : "3.025"
+    },
+    {
+      "session_ID" : "2_39_78_365_2021-05-27 21:52:19.956757",
+      "station_ID" : "39",
+      "port_ID" : "2-39-78-365",
+      "session_start" : "2021-05-27T21:52:28Z",
+      "session_end" : "2021-05-28T03:29:59Z",
+      "kWh_delivered" : "2.117"
+    },
+    {
+      "session_ID" : "2_39_81_4550_2021-05-27 22:28:39.848866",
+      "station_ID" : "39",
+      "port_ID" : "2-39-81-4550",
+      "session_start" : "2021-05-27T22:28:45Z",
+      "session_end" : "2021-05-27T22:51:57Z",
+      "kWh_delivered" : "11.008"
+    },
+    {
+      "session_ID" : "2_39_81_4550_2021-05-28 01:32:07.181179",
+      "station_ID" : "39",
+      "port_ID" : "2-39-81-4550",
+      "session_start" : "2021-05-28T01:32:19Z",
+      "session_end" : "2021-05-28T02:10:58Z",
+      "kWh_delivered" : "25.968"
+    },
+    {
+      "session_ID" : "2_39_81_4550_2021-05-28 02:14:14.027100",
+      "station_ID" : "39",
+      "port_ID" : "2-39-81-4550",
+      "session_start" : "2021-05-28T02:14:25Z",
+      "session_end" : "2021-05-28T02:28:19Z",
+      "kWh_delivered" : "2.576"
+    },
+    {
+      "session_ID" : "2_39_81_4550_2021-05-28 03:13:20.501555",
+      "station_ID" : "39",
+      "port_ID" : "2-39-81-4550",
+      "session_start" : "2021-05-28T03:13:29Z",
+      "session_end" : "2021-05-28T03:59:01Z",
+      "kWh_delivered" : "13.422"
+    },
+    {
+      "session_ID" : "2_39_81_4550_2021-05-28 13:32:29.704426",
+      "station_ID" : "39",
+      "port_ID" : "2-39-81-4550",
+      "session_start" : "2021-05-28T13:32:40Z",
+      "session_end" : "2021-05-28T14:47:00Z",
+      "kWh_delivered" : "47.794"
+    },
+    {
+      "session_ID" : "2_39_139_28_2021-05-28 15:16:45.552138",
+      "station_ID" : "39",
+      "port_ID" : "2-39-139-28",
+      "session_start" : "2021-05-28T15:16:58Z",
+      "session_end" : "2021-05-28T22:32:09Z",
+      "kWh_delivered" : "5.345"
+    },
+    {
+      "session_ID" : "2_39_79_380_2021-05-28 15:26:11.460522",
+      "station_ID" : "39",
+      "port_ID" : "2-39-79-380",
+      "session_start" : "2021-05-28T15:26:19Z",
+      "session_end" : "2021-05-28T22:13:54Z",
+      "kWh_delivered" : "4.93"
+    },
+    {
+      "session_ID" : "2_39_79_378_2021-05-28 15:43:22.367249",
+      "station_ID" : "39",
+      "port_ID" : "2-39-79-378",
+      "session_start" : "2021-05-28T15:43:35Z",
+      "session_end" : "2021-05-28T19:43:40Z",
+      "kWh_delivered" : "19.81"
+    },
+    {
+      "session_ID" : "2_39_81_4550_2021-05-28 17:04:45.646414",
+      "station_ID" : "39",
+      "port_ID" : "2-39-81-4550",
+      "session_start" : "2021-05-28T17:04:49Z",
+      "session_end" : "2021-05-28T18:25:14Z",
+      "kWh_delivered" : "40.298"
+    },
+    {
+      "session_ID" : "2_39_79_379_2021-05-28 18:35:51.588037",
+      "station_ID" : "39",
+      "port_ID" : "2-39-79-379",
+      "session_start" : "2021-05-28T18:36:03Z",
+      "session_end" : "2021-05-29T02:22:46Z",
+      "kWh_delivered" : "8.525"
+    },
+    {
+      "session_ID" : "2_39_78_365_2021-05-28 21:12:24.735105",
+      "station_ID" : "39",
+      "port_ID" : "2-39-78-365",
+      "session_start" : "2021-05-28T21:12:42Z",
+      "session_end" : "2021-05-29T04:11:37Z",
+      "kWh_delivered" : "2.329"
+    },
+    {
+      "session_ID" : "2_39_81_4550_2021-05-28 21:48:06.763450",
+      "station_ID" : "39",
+      "port_ID" : "2-39-81-4550",
+      "session_start" : "2021-05-28T21:48:16Z",
+      "session_end" : "2021-05-28T22:21:56Z",
+      "kWh_delivered" : "14.176"
+    },
+    {
+      "session_ID" : "2_39_125_21_2021-05-28 22:34:11.516342",
+      "station_ID" : "39",
+      "port_ID" : "2-39-125-21",
+      "session_start" : "2021-05-28T22:34:24Z",
+      "session_end" : "2021-05-28T23:31:30Z",
+      "kWh_delivered" : "3.192"
+    },
+    {
+      "session_ID" : "2_39_81_4550_2021-05-28 23:13:15.955094",
+      "station_ID" : "39",
+      "port_ID" : "2-39-81-4550",
+      "session_start" : "2021-05-28T23:13:40Z",
+      "session_end" : "2021-05-28T23:44:02Z",
+      "kWh_delivered" : "22.016"
+    },
+    {
+      "session_ID" : "2_39_81_4550_2021-05-29 01:25:45.855394",
+      "station_ID" : "39",
+      "port_ID" : "2-39-81-4550",
+      "session_start" : "2021-05-29T01:26:01Z",
+      "session_end" : "2021-05-29T01:59:53Z",
+      "kWh_delivered" : "17.506"
+    },
+    {
+      "session_ID" : "2_39_91_437_2021-05-29 01:27:49.894952",
+      "station_ID" : "39",
+      "port_ID" : "2-39-91-437",
+      "session_start" : "2021-05-29T01:28:10Z",
+      "session_end" : "2021-05-29T22:28:58Z",
+      "kWh_delivered" : "38.558"
+    },
+    {
+      "session_ID" : "2_39_81_4550_2021-05-29 02:03:16.039792",
+      "station_ID" : "39",
+      "port_ID" : "2-39-81-4550",
+      "session_start" : "2021-05-29T02:03:20Z",
+      "session_end" : "2021-05-29T03:05:31Z",
+      "kWh_delivered" : "7.156"
+    },
+    {
+      "session_ID" : "2_39_81_4550_2021-05-29 04:40:02.843250",
+      "station_ID" : "39",
+      "port_ID" : "2-39-81-4550",
+      "session_start" : "2021-05-29T04:40:15Z",
+      "session_end" : "2021-05-29T05:09:56Z",
+      "kWh_delivered" : "7.978"
+    },
+    {
+      "session_ID" : "2_39_81_4550_2021-05-29 15:18:32.122525",
+      "station_ID" : "39",
+      "port_ID" : "2-39-81-4550",
+      "session_start" : "2021-05-29T15:18:52Z",
+      "session_end" : "2021-05-29T16:48:19Z",
+      "kWh_delivered" : "37.498"
+    },
+    {
+      "session_ID" : "2_39_89_25_2021-05-29 15:50:32.668071",
+      "station_ID" : "39",
+      "port_ID" : "2-39-89-25",
+      "session_start" : "2021-05-29T15:50:46Z",
+      "session_end" : "2021-05-29T17:16:40Z",
+      "kWh_delivered" : "1.22"
+    },
+    {
+      "session_ID" : "2_39_81_4550_2021-05-29 17:03:37.322884",
+      "station_ID" : "39",
+      "port_ID" : "2-39-81-4550",
+      "session_start" : "2021-05-29T17:03:59Z",
+      "session_end" : "2021-05-29T18:10:58Z",
+      "kWh_delivered" : "32.612"
+    },
+    {
+      "session_ID" : "2_39_129_17_2021-05-29 18:14:24.122161",
+      "station_ID" : "39",
+      "port_ID" : "2-39-129-17",
+      "session_start" : "2021-05-29T18:14:24Z",
+      "session_end" : "2021-05-29T19:43:38Z",
+      "kWh_delivered" : "9.776"
+    },
+    {
+      "session_ID" : "2_39_81_4550_2021-05-29 19:06:28.890466",
+      "station_ID" : "39",
+      "port_ID" : "2-39-81-4550",
+      "session_start" : "2021-05-29T19:06:37Z",
+      "session_end" : "2021-05-29T20:17:56Z",
+      "kWh_delivered" : "31.546"
+    },
+    {
+      "session_ID" : "2_39_125_21_2021-05-29 21:09:04.771129",
+      "station_ID" : "39",
+      "port_ID" : "2-39-125-21",
+      "session_start" : "2021-05-29T21:09:17Z",
+      "session_end" : "2021-05-29T22:38:41Z",
+      "kWh_delivered" : "3.539"
+    },
+    {
+      "session_ID" : "2_39_81_4550_2021-05-29 23:55:00.187028",
+      "station_ID" : "39",
+      "port_ID" : "2-39-81-4550",
+      "session_start" : "2021-05-29T23:55:04Z",
+      "session_end" : "2021-05-30T00:47:14Z",
+      "kWh_delivered" : "11.96"
+    },
+    {
+      "session_ID" : "2_39_81_4550_2021-05-30 02:38:35.532421",
+      "station_ID" : "39",
+      "port_ID" : "2-39-81-4550",
+      "session_start" : "2021-05-30T02:38:42Z",
+      "session_end" : "2021-05-30T03:10:44Z",
+      "kWh_delivered" : "20.176"
+    },
+    {
+      "session_ID" : "2_39_129_17_2021-05-30 16:30:31.084719",
+      "station_ID" : "39",
+      "port_ID" : "2-39-129-17",
+      "session_start" : "2021-05-30T16:30:42Z",
+      "session_end" : "2021-05-30T16:37:50Z",
+      "kWh_delivered" : "0.819"
+    },
+    {
+      "session_ID" : "2_39_81_4550_2021-05-30 16:51:17.514407",
+      "station_ID" : "39",
+      "port_ID" : "2-39-81-4550",
+      "session_start" : "2021-05-30T16:51:24Z",
+      "session_end" : "2021-05-30T18:54:55Z",
+      "kWh_delivered" : "65.04"
+    },
+    {
+      "session_ID" : "2_39_131_30_2021-05-30 19:07:17.731557",
+      "station_ID" : "39",
+      "port_ID" : "2-39-131-30",
+      "session_start" : "2021-05-30T19:07:26Z",
+      "session_end" : "2021-05-30T19:59:26Z",
+      "kWh_delivered" : "3.005"
+    },
+    {
+      "session_ID" : "2_39_79_379_2021-05-30 19:38:45.336317",
+      "station_ID" : "39",
+      "port_ID" : "2-39-79-379",
+      "session_start" : "2021-05-30T19:38:45Z",
+      "session_end" : "2021-05-30T22:22:45Z",
+      "kWh_delivered" : "6.078"
+    },
+    {
+      "session_ID" : "2_39_91_437_2021-05-30 22:34:44.006964",
+      "station_ID" : "39",
+      "port_ID" : "2-39-91-437",
+      "session_start" : "2021-05-30T22:35:44Z",
+      "session_end" : "2021-05-31T21:40:58Z",
+      "kWh_delivered" : "33.513"
+    },
+    {
+      "session_ID" : "2_39_81_4550_2021-05-31 03:54:41.466025",
+      "station_ID" : "39",
+      "port_ID" : "2-39-81-4550",
+      "session_start" : "2021-05-31T03:54:55Z",
+      "session_end" : "2021-05-31T04:53:46Z",
+      "kWh_delivered" : "30.976"
+    },
+    {
+      "session_ID" : "2_39_81_4550_2021-05-31 13:44:13.237137",
+      "station_ID" : "39",
+      "port_ID" : "2-39-81-4550",
+      "session_start" : "2021-05-31T13:44:17Z",
+      "session_end" : "2021-05-31T14:17:55Z",
+      "kWh_delivered" : "24.83"
+    },
+    {
+      "session_ID" : "2_39_125_21_2021-05-31 14:55:19.449262",
+      "station_ID" : "39",
+      "port_ID" : "2-39-125-21",
+      "session_start" : "2021-05-31T14:55:31Z",
+      "session_end" : "2021-05-31T15:56:32Z",
+      "kWh_delivered" : "3.133"
+    },
+    {
+      "session_ID" : "2_39_81_4550_2021-05-31 15:31:36.114014",
+      "station_ID" : "39",
+      "port_ID" : "2-39-81-4550",
+      "session_start" : "2021-05-31T15:32:01Z",
+      "session_end" : "2021-05-31T16:31:37Z",
+      "kWh_delivered" : "13.314"
+    },
+    {
+      "session_ID" : "2_39_130_31_2021-05-31 18:46:02.996152",
+      "station_ID" : "39",
+      "port_ID" : "2-39-130-31",
+      "session_start" : "2021-05-31T18:46:03Z",
+      "session_end" : "2021-05-31T19:52:10Z",
+      "kWh_delivered" : "3.775"
+    },
+    {
+      "session_ID" : "2_39_81_4550_2021-05-31 20:34:59.494496",
+      "station_ID" : "39",
+      "port_ID" : "2-39-81-4550",
+      "session_start" : "2021-05-31T20:35:13Z",
+      "session_end" : "2021-05-31T21:29:07Z",
+      "kWh_delivered" : "20.242"
+    },
+    {
+      "session_ID" : "2_39_81_4550_2021-05-31 23:22:41.063764",
+      "station_ID" : "39",
+      "port_ID" : "2-39-81-4550",
+      "session_start" : "2021-05-31T23:22:48Z",
+      "session_end" : "2021-05-31T23:59:53Z",
+      "kWh_delivered" : "23.38"
+    }
+  ]
+}
